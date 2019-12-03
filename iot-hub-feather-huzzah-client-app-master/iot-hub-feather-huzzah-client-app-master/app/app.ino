@@ -25,6 +25,7 @@ unsigned long currentMillis = millis();
 unsigned long prevMillis = 0;
 
 
+
 void blinkLED()
 {
     digitalWrite(LED_PIN, HIGH);
@@ -85,9 +86,11 @@ void setup()
     delay(2000);
     //readCredentials();
 
+    
     initWifi();
     initTime();
-    initSensor();
+    initADXL345();
+//    initSensor();
 
     /*
      * AzureIotHub library remove AzureIoTHubClient class in 1.0.34, so we remove the code below to avoid
@@ -115,26 +118,14 @@ void loop()
     
     if (!messagePending && messageSending)
     {
-        bool pushButtonAlert = false;
         char messagePayload[MESSAGE_MAX_LEN];
-        bool temperatureAlert = readMessage(messageCount, messagePayload);
+        readMessage(messageCount, messagePayload);
         
-        if(digitalRead(PUSHBUTTON_PIN) == HIGH) {
-          pushButtonAlert = true;
-          sendMessage(iotHubClientHandle, messagePayload, temperatureAlert, pushButtonAlert);
-          
-        } else if(temperatureAlert) {
-          sendMessage(iotHubClientHandle, messagePayload, temperatureAlert, pushButtonAlert);
-          
-        } else {
-          if(currentMillis - prevMillis >= interval) {
-            sendMessage(iotHubClientHandle, messagePayload, temperatureAlert, pushButtonAlert);
-            prevMillis = currentMillis;
-                       
-          }
-        }
-        
-        messageCount++; 
+        if(currentMillis - prevMillis >= interval) {
+          sendMessage(iotHubClientHandle, messagePayload);
+          prevMillis = currentMillis;
+          messageCount++;       
+        }  
     }
     IoTHubClient_LL_DoWork(iotHubClientHandle);
     delay(10);

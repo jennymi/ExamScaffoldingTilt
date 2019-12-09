@@ -6,6 +6,7 @@
 #include <ESP8266WiFi.h>
 #include <WiFiClientSecure.h>
 #include <WiFiUdp.h>
+#include <Wire.h>
 
 #include <AzureIoTHub.h>
 #include <AzureIoTProtocol_MQTT.h>
@@ -23,8 +24,6 @@ static char *pass = "mfnrmpd8";
 static int interval = INTERVAL;
 unsigned long currentMillis = millis();
 unsigned long prevMillis = 0;
-
-
 
 void blinkLED()
 {
@@ -84,13 +83,10 @@ void setup()
 
     initSerial();
     delay(2000);
-    //readCredentials();
 
-    
     initWifi();
     initTime();
     initADXL345();
-//    initSensor();
 
     /*
      * AzureIotHub library remove AzureIoTHubClient class in 1.0.34, so we remove the code below to avoid
@@ -111,7 +107,6 @@ void setup()
     IoTHubClient_LL_SetDeviceTwinCallback(iotHubClientHandle, twinCallback, NULL);
 }
 
-static int messageCount = 1;
 void loop()
 {   
     currentMillis = millis();
@@ -119,12 +114,11 @@ void loop()
     if (!messagePending && messageSending)
     {
         char messagePayload[MESSAGE_MAX_LEN];
-        readMessage(messageCount, messagePayload);
+        readMessage(messagePayload);
         
         if(currentMillis - prevMillis >= interval) {
           sendMessage(iotHubClientHandle, messagePayload);
-          prevMillis = currentMillis;
-          messageCount++;       
+          prevMillis = currentMillis;     
         }  
     }
     IoTHubClient_LL_DoWork(iotHubClientHandle);

@@ -1,3 +1,6 @@
+const uint8_t scl = 14; 
+const uint8_t sda = 12; 
+
 void initSerial()
 {
     // Start serial and initialize stdout
@@ -8,14 +11,11 @@ void initSerial()
 
 void initADXL345()
 {
-  Wire.begin(); // Initiate the Wire library
-  // Set ADXL345 in measuring mode
-  Wire.beginTransmission(ADXL345); // Start communicating with the device 
-  Wire.write(0x2D); // Access/ talk to POWER_CTL Register - 0x2D
-  // Enable measurement
-  Wire.write(8); // (8dec -> 0000 1000 binary) Bit D3 High for measuring enable 
-  Wire.endTransmission();
-  delay(10);  
+  // Initialise I2C communication as MASTER
+  Wire.begin(sda, scl);
+  // Initialise serial communication, set baud rate = 115200
+  Serial.begin(9600);
+  
 }
 /* Read a string whose length should in (0, lengthLimit) from Serial and save it into buf.
  *

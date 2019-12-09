@@ -25093,11 +25093,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jenny\\Documents\\IoT\\Business Intelligence\\uwp-app\\uwp-app\\uwp-app.csproj",
+      "projectUniqueName": "C:\\Users\\Jenny\\Documents\\IoT\\Examensarbete\\GitHubCode\\uwp-app\\uwp-app\\uwp-app.csproj",
       "projectName": "uwp-app",
-      "projectPath": "C:\\Users\\Jenny\\Documents\\IoT\\Business Intelligence\\uwp-app\\uwp-app\\uwp-app.csproj",
+      "projectPath": "C:\\Users\\Jenny\\Documents\\IoT\\Examensarbete\\GitHubCode\\uwp-app\\uwp-app\\uwp-app.csproj",
       "packagesPath": "C:\\Users\\Jenny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jenny\\Documents\\IoT\\Business Intelligence\\uwp-app\\uwp-app\\obj\\",
+      "outputPath": "C:\\Users\\Jenny\\Documents\\IoT\\Examensarbete\\GitHubCode\\uwp-app\\uwp-app\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

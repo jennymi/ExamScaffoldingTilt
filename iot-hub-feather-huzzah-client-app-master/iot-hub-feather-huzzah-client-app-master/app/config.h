@@ -1,5 +1,5 @@
 // Physical device information for board and sensor
-#define DEVICE_ID "Feather HUZZAH ESP8266 WiFi"
+#define DEVICE_ID "Scaffolding Sensor #1"
 #define DHT_TYPE DHT22
 
 // Pin layout configuration

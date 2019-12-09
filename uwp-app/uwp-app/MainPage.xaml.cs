@@ -30,7 +30,7 @@ namespace uwp_app
         {
             if (deviceClient == null)
             {
-                const string deviceConnectionString = "HostName=iothub18exam.azure-devices.net;DeviceId=AppDevice;SharedAccessKey=RRzx7/FRHlJF5/oJfv3uO8MP8O8fjyyeEKrK/HU197o=";
+                const string deviceConnectionString = "HostName=iothub18exam.azure-devices.net;DeviceId=AppDeviceTest;SharedAccessKey=Ixeg2Y38G7y1KXdy9vhS3zzANxa7NGGZgwg4ysPoK1c=";
                 deviceClient = DeviceClient.CreateFromConnectionString(deviceConnectionString, TransportType.Mqtt);
             }
         }
@@ -47,10 +47,10 @@ namespace uwp_app
                     var messageData = Encoding.ASCII.GetString(receiveMessage.GetBytes());
                     await deviceClient.CompleteAsync(receiveMessage);
                     sensor = JsonConvert.DeserializeObject<Sensor>(messageData);
-                    messageX.Text = sensor.X_out.ToString();
-                    messageY.Text = sensor.Y_out.ToString();
-                    messageZ.Text = sensor.Z_out.ToString();
-                    messageId.Text = sensor.messageId.ToString();
+                    messageRoll.Text = sensor.rollF.ToString();
+                    messagePitch.Text = sensor.pitchF.ToString();
+                    //messageZ.Text = sensor.Z_out.ToString();
+                    deviceId.Text = sensor.deviceId.ToString();
 
                 }
                 await Task.Delay(TimeSpan.FromSeconds(1));
@@ -67,10 +67,10 @@ namespace uwp_app
     public class Sensor
     {
         public string deviceId { get; set; }
-        public int messageId { get; set; }
-        public float X_out { get; set; }
-        public float Y_out { get; set; }
-        public float Z_out { get; set; }
+       // public int messageId { get; set; }
+        public float rollF { get; set; }
+        public float pitchF { get; set; }
+       // public float Z_out { get; set; }
     }
 
 

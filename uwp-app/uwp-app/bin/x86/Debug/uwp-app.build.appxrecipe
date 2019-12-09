@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>92b025a2-23b7-4b43-bfc5-0f7f9e778e7b</PackageIdentityName>
     <PackageIdentityPublisher>CN=Jenny</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\uwp-app.exe">
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\uwp-app.exe">
       <PackagePath>entrypoint\uwp-app.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\dotnetty.buffers\0.6.0\lib\netstandard1.3\DotNetty.Buffers.dll">
@@ -82,52 +82,52 @@
     <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\windowsazure.storage\9.3.2\lib\win8\Microsoft.WindowsAzure.Storage.dll">
       <PackagePath>Microsoft.WindowsAzure.Storage.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\uwp-app.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\uwp-app.xr.xml">
       <PackagePath>uwp-app.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\Core\uwp-app.exe">
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\Core\uwp-app.exe">
       <PackagePath>uwp-app.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

@@ -10,16 +10,14 @@
 
     <Grid>
 
-        <TextBlock Name ="messageId" HorizontalAlignment="Left" Margin="532,236,0,0" Text="current time" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30"/>
+        <TextBlock Name ="deviceId" HorizontalAlignment="Left" Margin="532,236,0,0" Text="current time" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30"/>
 
         <TextBlock  HorizontalAlignment="Left" Height="70" Margin="472,329,0,0" Text="X: " TextWrapping="Wrap" VerticalAlignment="Top" Width="300" FontSize="40"/>
-        <TextBlock  Name ="messageX" HorizontalAlignment="Left" Margin="703,340,0,0" Text="axis " TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30"/>
+        <TextBlock  Name ="messageRoll" HorizontalAlignment="Left" Margin="703,340,0,0" Text="axis " TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30"/>
 
         <TextBlock HorizontalAlignment="Left" Margin="472,395,0,0" Text="Y: " TextWrapping="Wrap" VerticalAlignment="Top" FontSize="40"/>
-        <TextBlock Name ="messageY" HorizontalAlignment="Left" Margin="703,406,0,0" Text="axis" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30"/>
+        <TextBlock Name ="messagePitch" HorizontalAlignment="Left" Margin="703,406,0,0" Text="axis" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30"/>
 
 
-        <TextBlock  HorizontalAlignment="Left" Height="70" Margin="472,457,0,0" Text="Z: " TextWrapping="Wrap" VerticalAlignment="Top" Width="300" FontSize="40"/>
-        <TextBlock  Name ="messageZ" HorizontalAlignment="Left" Margin="703,468,0,0" Text="axis " TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30"/>
     </Grid>
 </Page>

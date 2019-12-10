@@ -1,1 +1,0 @@
-C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app.csproj;x86

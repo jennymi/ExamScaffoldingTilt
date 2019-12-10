@@ -1,0 +1,398 @@
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\App.xbf
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\MainPage.xbf
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\uwp-app.xr.xml
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\uwp-app.exe
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\uwp-app.pdb
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\resources.pri
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\AppxManifest.xml
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\Core\uwp-app.exe
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\uwp-app.build.appxrecipe
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Buffers.dll
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Codecs.dll
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Common.dll
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Handlers.dll
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Transport.dll
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Azure.Devices.Client.dll
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Azure.Devices.Shared.dll
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\System.Runtime.dll
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\bin\x86\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\uwp-app.csprojAssemblyReference.cache
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\App.g.i.cs
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\App.g.cs
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\MainPage.g.cs
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\App.xaml
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\MainPage.xaml
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\App.xbf
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\MainPage.xbf
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\uwp-app.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\uwp-app.csproj.CopyComplete
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\uwp-app.exe
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\uwp-app.pdb
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions\en-us\Microsoft.Extensions.DependencyInjection.Abstractions.Resources.resw
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Extensions.Logging.Abstractions\en-us\Microsoft.Extensions.Logging.Abstractions.Resource.resw
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\FxResources.System.Configuration.ConfigurationManager.SR.resw
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\FxResources.System.Security.Cryptography.ProtectedData.SR.resw
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\priconfig.xml
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\resources.resfiles
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\pri.resfiles
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\qualifiers.txt
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Azure.Amqp.pri.xml
+C:\Users\Jenny\Documents\IoT\Business Intelligence\uwp-app\uwp-app\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\App.xbf
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\MainPage.xbf
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\uwp-app.xr.xml
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\uwp-app.exe
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\uwp-app.pdb
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\resources.pri
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\AppxManifest.xml
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\Core\uwp-app.exe
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\uwp-app.build.appxrecipe
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Buffers.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Codecs.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Common.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Handlers.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Transport.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Azure.Devices.Client.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Azure.Devices.Shared.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\System.Runtime.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\bin\x86\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\uwp-app.csprojAssemblyReference.cache
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\App.g.i.cs
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\App.g.cs
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\MainPage.g.cs
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\App.xaml
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\MainPage.xaml
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\App.xbf
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\MainPage.xbf
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\uwp-app.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\uwp-app.csproj.CopyComplete
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\uwp-app.exe
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\uwp-app.pdb
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\priconfig.xml
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\resources.resfiles
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\pri.resfiles
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\qualifiers.txt
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Azure.Amqp.pri.xml
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\App.g.i.cs
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\App.g.cs
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\MainPage.g.cs
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\App.xaml
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\MainPage.xaml
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\App.xbf
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\MainPage.xbf
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\uwp-app.exe
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\uwp-app.pdb
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\App.xbf
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\MainPage.xbf
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\uwp-app.xr.xml
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\uwp-app.exe
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\uwp-app.pdb
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\resources.pri
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\AppxManifest.xml
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\Core\uwp-app.exe
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\uwp-app.build.appxrecipe
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Buffers.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Codecs.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Common.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Handlers.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Transport.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Azure.Devices.Client.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Azure.Devices.Shared.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Data.Edm.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Data.OData.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\System.Runtime.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\System.Spatial.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\de\System.Spatial.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\es\System.Spatial.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\fr\System.Spatial.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\it\System.Spatial.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\ja\System.Spatial.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\ko\System.Spatial.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\ru\System.Spatial.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\uwp-app.csproj.CoreCompileInputs.cache
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\uwp-app.csproj.CopyComplete
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions\en-us\Microsoft.Extensions.DependencyInjection.Abstractions.Resources.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Extensions.Logging.Abstractions\en-us\Microsoft.Extensions.Logging.Abstractions.Resource.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\FxResources.System.Configuration.ConfigurationManager.SR.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\FxResources.System.Security.Cryptography.ProtectedData.SR.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\System.Spatial\en-US\System.Spatial.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\System.Spatial\de\System.Spatial.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\System.Spatial\es\System.Spatial.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\System.Spatial\fr\System.Spatial.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\System.Spatial\it\System.Spatial.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\System.Spatial\ja\System.Spatial.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\System.Spatial\ko\System.Spatial.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\System.Spatial\ru\System.Spatial.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\System.Spatial\zh-Hans\System.Spatial.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\System.Spatial\zh-Hant\System.Spatial.resw
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\priconfig.xml
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\resources.resfiles
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\pri.resfiles
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\qualifiers.txt
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Azure.Amqp.pri.xml
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\LiveCharts.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\LiveCharts.pdb
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\LiveCharts.Uwp.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\LiveCharts.Uwp.pdb
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\LiveCharts.Uwp.pri.xml
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Xaml.Interactions.pri.xml
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Xaml.Interactivity.pri.xml
+C:\Users\fgrim\OneDrive\Skrivbord\ExamScaffoldingTilt-master\uwp-app\uwp-app\obj\x86\Debug\uwp-app.csprojAssemblyReference.cache
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\App.g.i.cs
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\App.g.cs
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\MainPage.g.cs
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\App.xaml
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\MainPage.xaml
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\App.xbf
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\MainPage.xbf
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\uwp-app.exe
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\uwp-app.pdb
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\App.xbf
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\MainPage.xbf
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\uwp-app.xr.xml
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\uwp-app.exe
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\uwp-app.pdb
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\resources.pri
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\AppxManifest.xml
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\Core\uwp-app.exe
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\uwp-app.build.appxrecipe
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Buffers.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Codecs.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Common.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Handlers.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\DotNetty.Transport.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\LiveCharts.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\LiveCharts.pdb
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\LiveCharts.Uwp.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\LiveCharts.Uwp.pdb
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Azure.Devices.Client.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Azure.Devices.Shared.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Data.Edm.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Data.OData.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\System.Runtime.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\System.Spatial.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\de\System.Spatial.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\es\System.Spatial.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\fr\System.Spatial.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\it\System.Spatial.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\ja\System.Spatial.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\ko\System.Spatial.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\ru\System.Spatial.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\uwp-app.csprojAssemblyReference.cache
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\uwp-app.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\uwp-app.csproj.CopyComplete
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.Edm\en-US\Microsoft.Data.Edm.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.OData\en-US\Microsoft.Data.OData.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions\en-us\Microsoft.Extensions.DependencyInjection.Abstractions.Resources.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Extensions.Logging.Abstractions\en-us\Microsoft.Extensions.Logging.Abstractions.Resource.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\FxResources.System.Configuration.ConfigurationManager.SR.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\FxResources.System.Security.Cryptography.ProtectedData.SR.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\System.Spatial\en-US\System.Spatial.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.Edm\de\Microsoft.Data.Edm.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.Edm\es\Microsoft.Data.Edm.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.Edm\fr\Microsoft.Data.Edm.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.Edm\it\Microsoft.Data.Edm.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.Edm\ja\Microsoft.Data.Edm.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.Edm\ko\Microsoft.Data.Edm.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.Edm\ru\Microsoft.Data.Edm.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.Edm\zh-Hans\Microsoft.Data.Edm.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.Edm\zh-Hant\Microsoft.Data.Edm.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.OData\de\Microsoft.Data.OData.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.OData\es\Microsoft.Data.OData.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.OData\fr\Microsoft.Data.OData.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.OData\it\Microsoft.Data.OData.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.OData\ja\Microsoft.Data.OData.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.OData\ko\Microsoft.Data.OData.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.OData\ru\Microsoft.Data.OData.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.OData\zh-Hans\Microsoft.Data.OData.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Data.OData\zh-Hant\Microsoft.Data.OData.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\System.Spatial\de\System.Spatial.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\System.Spatial\es\System.Spatial.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\System.Spatial\fr\System.Spatial.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\System.Spatial\it\System.Spatial.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\System.Spatial\ja\System.Spatial.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\System.Spatial\ko\System.Spatial.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\System.Spatial\ru\System.Spatial.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\System.Spatial\zh-Hans\System.Spatial.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\System.Spatial\zh-Hant\System.Spatial.resw
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\priconfig.xml
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\resources.resfiles
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\pri.resfiles
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\qualifiers.txt
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\LiveCharts.Uwp.pri.xml
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Azure.Amqp.pri.xml
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Xaml.Interactions.pri.xml
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\Microsoft.Xaml.Interactivity.pri.xml
+C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\ProjectArchitectures.txt

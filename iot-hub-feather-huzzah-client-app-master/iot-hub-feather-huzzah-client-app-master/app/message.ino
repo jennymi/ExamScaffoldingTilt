@@ -101,7 +101,7 @@ void readMessage(char *payload)
     StaticJsonBuffer<MESSAGE_MAX_LEN> jsonBuffer;
     JsonObject &root = jsonBuffer.createObject();
     root["deviceId"] = DEVICE_ID;
-    //root["dateTime"] = time_str;
+   root["dateTime"] = time_str;
 
     // NAN is not the valid json, change it to NULL
     if (std::isnan(rollF))

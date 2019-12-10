@@ -1,0 +1,424 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-6JHDJJD</Machine>
+    <WindowsUser>Jenny</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>92b025a2-23b7-4b43-bfc5-0f7f9e778e7b</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Jenny</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>A22D459752954EC42BE232F05507BE13F10789F8C2A391CADFC79E80E3CA2A92</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>92b025a2-23b7-4b43-bfc5-0f7f9e778e7b_1.0.0.0_x86__6qv2qgfhrxgrw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>92b025a2-23b7-4b43-bfc5-0f7f9e778e7b_6qv2qgfhrxgrw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>92b025a2-23b7-4b43-bfc5-0f7f9e778e7b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Jenny</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-10T15:19:42.773</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\uwp-app.exe">
+      <PackagePath>entrypoint\uwp-app.exe</PackagePath>
+      <Modified>2019-12-10T15:19:38.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\dotnetty.buffers\0.6.0\lib\netstandard1.3\DotNetty.Buffers.dll">
+      <PackagePath>DotNetty.Buffers.dll</PackagePath>
+      <Modified>2018-10-08T08:15:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\dotnetty.codecs\0.6.0\lib\netstandard1.3\DotNetty.Codecs.dll">
+      <PackagePath>DotNetty.Codecs.dll</PackagePath>
+      <Modified>2018-10-08T08:14:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\dotnetty.codecs.mqtt\0.6.0\lib\netstandard1.3\DotNetty.Codecs.Mqtt.dll">
+      <PackagePath>DotNetty.Codecs.Mqtt.dll</PackagePath>
+      <Modified>2018-10-08T08:14:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\dotnetty.common\0.6.0\lib\netstandard1.3\DotNetty.Common.dll">
+      <PackagePath>DotNetty.Common.dll</PackagePath>
+      <Modified>2018-10-08T08:14:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\dotnetty.handlers\0.6.0\lib\netstandard1.3\DotNetty.Handlers.dll">
+      <PackagePath>DotNetty.Handlers.dll</PackagePath>
+      <Modified>2018-10-08T08:14:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\dotnetty.transport\0.6.0\lib\netstandard1.3\DotNetty.Transport.dll">
+      <PackagePath>DotNetty.Transport.dll</PackagePath>
+      <Modified>2018-10-08T08:14:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\livecharts\0.8.0\lib\portable-net40+sl5+win8+wp8+wpa81\LiveCharts.dll">
+      <PackagePath>LiveCharts.dll</PackagePath>
+      <Modified>2016-11-19T18:20:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\livecharts.uwp\0.8.0\lib\uap10.0\LiveCharts.Uwp.dll">
+      <PackagePath>LiveCharts.Uwp.dll</PackagePath>
+      <Modified>2016-11-19T18:20:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.azure.amqp\2.3.2\lib\uap10.0\Microsoft.Azure.Amqp.dll">
+      <PackagePath>Microsoft.Azure.Amqp.dll</PackagePath>
+      <Modified>2018-07-03T17:20:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.azure.devices.client\1.18.1\lib\netstandard2.0\Microsoft.Azure.Devices.Client.dll">
+      <PackagePath>Microsoft.Azure.Devices.Client.dll</PackagePath>
+      <Modified>2018-10-09T12:10:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.azure.devices.shared\1.15.1\lib\netstandard2.0\Microsoft.Azure.Devices.Shared.dll">
+      <PackagePath>Microsoft.Azure.Devices.Shared.dll</PackagePath>
+      <Modified>2018-07-27T19:09:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.data.edm\5.8.2\lib\netstandard1.1\Microsoft.Data.Edm.dll">
+      <PackagePath>Microsoft.Data.Edm.dll</PackagePath>
+      <Modified>2017-02-01T13:00:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.data.edm\5.8.2\lib\netstandard1.1\de\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>de\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.data.edm\5.8.2\lib\netstandard1.1\es\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>es\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.data.edm\5.8.2\lib\netstandard1.1\fr\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>fr\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.data.edm\5.8.2\lib\netstandard1.1\it\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>it\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.data.edm\5.8.2\lib\netstandard1.1\ja\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>ja\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.data.edm\5.8.2\lib\netstandard1.1\ko\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>ko\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.data.edm\5.8.2\lib\netstandard1.1\ru\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>ru\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.data.edm\5.8.2\lib\netstandard1.1\zh-Hans\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.data.edm\5.8.2\lib\netstandard1.1\zh-Hant\Microsoft.Data.Edm.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.Data.Edm.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.data.odata\5.8.2\lib\netstandard1.1\Microsoft.Data.OData.dll">
+      <PackagePath>Microsoft.Data.OData.dll</PackagePath>
+      <Modified>2017-02-01T13:00:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.data.odata\5.8.2\lib\netstandard1.1\de\Microsoft.Data.OData.resources.dll">
+      <PackagePath>de\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.data.odata\5.8.2\lib\netstandard1.1\es\Microsoft.Data.OData.resources.dll">
+      <PackagePath>es\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.data.odata\5.8.2\lib\netstandard1.1\fr\Microsoft.Data.OData.resources.dll">
+      <PackagePath>fr\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.data.odata\5.8.2\lib\netstandard1.1\it\Microsoft.Data.OData.resources.dll">
+      <PackagePath>it\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.data.odata\5.8.2\lib\netstandard1.1\ja\Microsoft.Data.OData.resources.dll">
+      <PackagePath>ja\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.data.odata\5.8.2\lib\netstandard1.1\ko\Microsoft.Data.OData.resources.dll">
+      <PackagePath>ko\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.data.odata\5.8.2\lib\netstandard1.1\ru\Microsoft.Data.OData.resources.dll">
+      <PackagePath>ru\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.data.odata\5.8.2\lib\netstandard1.1\zh-Hans\Microsoft.Data.OData.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.data.odata\5.8.2\lib\netstandard1.1\zh-Hant\Microsoft.Data.OData.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.Data.OData.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\1.1.0\lib\netstandard1.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.DependencyInjection.Abstractions.dll</PackagePath>
+      <Modified>2016-11-14T19:41:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.extensions.logging\1.1.1\lib\netstandard1.1\Microsoft.Extensions.Logging.dll">
+      <PackagePath>Microsoft.Extensions.Logging.dll</PackagePath>
+      <Modified>2017-02-17T16:01:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.extensions.logging.abstractions\1.1.1\lib\netstandard1.1\Microsoft.Extensions.Logging.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.Logging.Abstractions.dll</PackagePath>
+      <Modified>2017-02-17T16:01:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.0\lib\uap10.0\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2016-10-19T15:07:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.0\lib\uap10.0\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2016-10-19T15:07:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\newtonsoft.json\12.0.3\lib\netstandard2.0\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2019-11-08T23:56:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.9\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2019-07-22T12:01:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\system.configuration.configurationmanager\4.4.1\lib\netstandard2.0\System.Configuration.ConfigurationManager.dll">
+      <PackagePath>System.Configuration.ConfigurationManager.dll</PackagePath>
+      <Modified>2017-11-20T17:09:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\system.runtime.compilerservices.unsafe\4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
+      <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
+      <Modified>2018-09-18T17:38:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\system.security.cryptography.protecteddata\4.4.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll">
+      <PackagePath>System.Security.Cryptography.ProtectedData.dll</PackagePath>
+      <Modified>2017-07-19T08:01:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\system.spatial\5.8.2\lib\netstandard1.1\System.Spatial.dll">
+      <PackagePath>System.Spatial.dll</PackagePath>
+      <Modified>2017-02-01T13:00:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\system.spatial\5.8.2\lib\netstandard1.1\de\System.Spatial.resources.dll">
+      <PackagePath>de\System.Spatial.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\system.spatial\5.8.2\lib\netstandard1.1\es\System.Spatial.resources.dll">
+      <PackagePath>es\System.Spatial.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\system.spatial\5.8.2\lib\netstandard1.1\fr\System.Spatial.resources.dll">
+      <PackagePath>fr\System.Spatial.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\system.spatial\5.8.2\lib\netstandard1.1\it\System.Spatial.resources.dll">
+      <PackagePath>it\System.Spatial.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\system.spatial\5.8.2\lib\netstandard1.1\ja\System.Spatial.resources.dll">
+      <PackagePath>ja\System.Spatial.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\system.spatial\5.8.2\lib\netstandard1.1\ko\System.Spatial.resources.dll">
+      <PackagePath>ko\System.Spatial.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\system.spatial\5.8.2\lib\netstandard1.1\ru\System.Spatial.resources.dll">
+      <PackagePath>ru\System.Spatial.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\system.spatial\5.8.2\lib\netstandard1.1\zh-Hans\System.Spatial.resources.dll">
+      <PackagePath>zh-Hans\System.Spatial.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\system.spatial\5.8.2\lib\netstandard1.1\zh-Hant\System.Spatial.resources.dll">
+      <PackagePath>zh-Hant\System.Spatial.resources.dll</PackagePath>
+      <Modified>2017-02-01T13:00:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\windowsazure.storage\8.7.0\lib\win8\Microsoft.WindowsAzure.Storage.dll">
+      <PackagePath>Microsoft.WindowsAzure.Storage.dll</PackagePath>
+      <Modified>2017-12-14T11:57:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2019-12-10T15:18:11.196</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2019-12-10T15:18:01.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-10T15:18:01.701</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-10T15:18:01.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-10T15:18:01.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-10T15:18:01.771</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-10T15:18:01.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-12-10T15:18:01.818</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\uwp-app.xr.xml">
+      <PackagePath>uwp-app.xr.xml</PackagePath>
+      <Modified>2019-12-10T15:18:09.266</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2019-12-10T15:19:38.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2019-12-10T15:19:38.313</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2018-04-19T20:01:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\livecharts.uwp\0.8.0\lib\uap10.0\LiveCharts.Uwp\DefaultGeoMapTooltip.xaml">
+      <PackagePath>LiveCharts.Uwp\DefaultGeoMapTooltip.xaml</PackagePath>
+      <Modified>2016-11-19T18:20:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\livecharts.uwp\0.8.0\lib\uap10.0\LiveCharts.Uwp\DefaultLegend.xaml">
+      <PackagePath>LiveCharts.Uwp\DefaultLegend.xaml</PackagePath>
+      <Modified>2016-11-19T18:20:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\livecharts.uwp\0.8.0\lib\uap10.0\LiveCharts.Uwp\DefaultTooltip.xaml">
+      <PackagePath>LiveCharts.Uwp\DefaultTooltip.xaml</PackagePath>
+      <Modified>2016-11-19T18:20:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\livecharts.uwp\0.8.0\lib\uap10.0\LiveCharts.Uwp\HeatColorRange.xaml">
+      <PackagePath>LiveCharts.Uwp\HeatColorRange.xaml</PackagePath>
+      <Modified>2016-11-19T18:20:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\.nuget\packages\livecharts.uwp\0.8.0\lib\uap10.0\LiveCharts.Uwp\LiveCharts.Uwp.xr.xml">
+      <PackagePath>LiveCharts.Uwp\LiveCharts.Uwp.xr.xml</PackagePath>
+      <Modified>2016-11-19T18:20:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2019-12-10T15:19:41.654</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jenny\Documents\IoT\Examensarbete\GitHubCode\uwp-app\uwp-app\uwp-app\bin\x86\Debug\Core\uwp-app.exe">
+      <PackagePath>uwp-app.exe</PackagePath>
+      <Modified>2019-12-10T15:19:42.738</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\Jenny\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Jenny\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Jenny\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Jenny\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Jenny\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Jenny\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Jenny\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.27909.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27909.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Jenny\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Jenny\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.27909.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27909.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Jenny\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Jenny\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.27909.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27909.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Jenny\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.9\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27023.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27023.1</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27023.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27023.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

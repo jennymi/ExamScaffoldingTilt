@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.PropertyPathNames>
+    <RootPropertyPathName Name="SeriesCollection" />
+    <RootPropertyPathName Name="YFormatter" />
+    <RootPropertyPathName Name="Labels" />
+  </Roots.PropertyPathNames>
+  <Roots.RootTypes>
+    <RootType FullName="Windows.UI.Xaml.Application" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Children" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
+      <RootProperty Name="Name" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Text" />
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="LiveCharts.Uwp.CartesianChart">
+      <RootProperty Name="Series" />
+      <RootProperty Name="LegendLocation" />
+      <RootProperty Name="AxisY" />
+      <RootProperty Name="AxisX" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Data.Binding" />
+    <RootType FullName="LiveCharts.Uwp.Axis">
+      <RootProperty Name="Title" />
+      <RootProperty Name="LabelFormatter" />
+      <RootProperty Name="Labels" />
+    </RootType>
+    <RootType FullName="uwp_app.MainPage" />
+  </Roots.RootTypes>
+</Roots>

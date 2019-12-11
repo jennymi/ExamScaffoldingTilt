@@ -14,7 +14,7 @@ void initADXL345()
   // Initialise I2C communication as MASTER
   Wire.begin(sda, scl);
   // Initialise serial communication, set baud rate = 115200
-  Serial.begin(9600);
+  Serial.begin(115200);
   
 }
 /* Read a string whose length should in (0, lengthLimit) from Serial and save it into buf.

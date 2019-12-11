@@ -20,6 +20,8 @@ static bool messageSending = true;
 static char *connectionString = "HostName=iothub18exam.azure-devices.net;DeviceId=IoTDevice;SharedAccessKey=snNCrQooG3TVKuXBMwevNbDjXjK+WvkIgKYI6W895NQ=";
 static char *ssid = "ComHem8DD275";
 static char *pass = "mfnrmpd8";
+//static char *ssid = "AndroidAP";
+//static char *pass = "dwjp3669";
 
 static int interval = INTERVAL;
 unsigned long currentMillis = millis();

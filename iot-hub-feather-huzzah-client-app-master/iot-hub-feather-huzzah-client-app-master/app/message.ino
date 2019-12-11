@@ -15,10 +15,10 @@ float roll,pitch,rollF,pitchF=0;
 #if SIMULATED_DATA
 #endif
 
-void readMessage(char *payload)
-{
+
+void readADXL345(){
+
     unsigned int data[6];
-  
     // Start I2C Transmission
     Wire.beginTransmission(Addr);
     // Select bandwidth rate register
@@ -34,7 +34,7 @@ void readMessage(char *payload)
     Wire.write(0x2D);
     // Auto-sleep disable
     Wire.write(0x08);
-    // Stop I2C transmission
+    // Stop I2C transmission 
     Wire.endTransmission();
   
     // Start I2C Transmission
@@ -89,10 +89,12 @@ void readMessage(char *payload)
     // Low-pass filter
     rollF = 0.94 * rollF + 0.06 * roll;
     pitchF = 0.94 * pitchF + 0.06 * pitch;
-    Serial.print(rollF);
-    Serial.print("/");
-    Serial.println(pitchF);
+}
 
+void readMessage(char *payload)
+{   
+    readADXL345();
+  
     //Get currentTime
     time_t dateTime = time(NULL);
     char * time_str = ctime(&dateTime);

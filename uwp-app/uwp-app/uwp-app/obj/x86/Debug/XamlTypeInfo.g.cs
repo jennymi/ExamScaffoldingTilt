@@ -213,7 +213,7 @@ namespace uwp_app.uwp_app_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[57];
+            _typeNameTable = new string[59];
             _typeNameTable[0] = "LiveCharts.Uwp.CartesianChart";
             _typeNameTable[1] = "LiveCharts.Uwp.Charts.Base.Chart";
             _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
@@ -236,19 +236,19 @@ namespace uwp_app.uwp_app_XamlTypeInfo
             _typeNameTable[19] = "LiveCharts.Uwp.Axis";
             _typeNameTable[20] = "Windows.UI.Xaml.FrameworkElement";
             _typeNameTable[21] = "String";
-            _typeNameTable[22] = "System.Func`2<Double, String>";
-            _typeNameTable[23] = "System.Collections.Generic.IList`1<String>";
-            _typeNameTable[24] = "LiveCharts.AxisCore";
-            _typeNameTable[25] = "Double";
+            _typeNameTable[22] = "Windows.UI.Xaml.Media.FontFamily";
+            _typeNameTable[23] = "Windows.UI.Xaml.Media.Brush";
+            _typeNameTable[24] = "System.Func`2<Double, String>";
+            _typeNameTable[25] = "LiveCharts.Definitions.Charts.ISeparatorView";
             _typeNameTable[26] = "LiveCharts.Uwp.SectionsCollection";
             _typeNameTable[27] = "LiveCharts.Helpers.NoisyCollection`1<LiveCharts.Uwp.AxisSection>";
             _typeNameTable[28] = "LiveCharts.Uwp.AxisSection";
-            _typeNameTable[29] = "LiveCharts.AxisSectionCore";
-            _typeNameTable[30] = "Windows.UI.Xaml.Media.Brush";
+            _typeNameTable[29] = "Double";
+            _typeNameTable[30] = "LiveCharts.AxisSectionCore";
             _typeNameTable[31] = "Windows.UI.Xaml.Media.DoubleCollection";
-            _typeNameTable[32] = "LiveCharts.Definitions.Charts.ISeparatorView";
-            _typeNameTable[33] = "LiveCharts.AxisPosition";
-            _typeNameTable[34] = "Windows.UI.Xaml.Media.FontFamily";
+            _typeNameTable[32] = "System.Collections.Generic.IList`1<String>";
+            _typeNameTable[33] = "LiveCharts.AxisCore";
+            _typeNameTable[34] = "LiveCharts.AxisPosition";
             _typeNameTable[35] = "Windows.UI.Text.FontWeight";
             _typeNameTable[36] = "Windows.UI.Text.FontStyle";
             _typeNameTable[37] = "Windows.UI.Text.FontStretch";
@@ -266,13 +266,15 @@ namespace uwp_app.uwp_app_XamlTypeInfo
             _typeNameTable[49] = "LiveCharts.UpdaterState";
             _typeNameTable[50] = "LiveCharts.Charts.ChartCore";
             _typeNameTable[51] = "System.Collections.Generic.IEnumerable`1<LiveCharts.Definitions.Series.ISeriesView>";
-            _typeNameTable[52] = "uwp_app.MainPage";
-            _typeNameTable[53] = "Windows.UI.Xaml.Controls.Page";
-            _typeNameTable[54] = "System.Collections.Generic.List`1<String>";
-            _typeNameTable[55] = "LiveCharts.Uwp.Points.PieSlice";
-            _typeNameTable[56] = "Windows.UI.Xaml.Shapes.Path";
+            _typeNameTable[52] = "LiveCharts.Uwp.Separator";
+            _typeNameTable[53] = "Windows.UI.Xaml.Controls.Control";
+            _typeNameTable[54] = "uwp_app.MainPage";
+            _typeNameTable[55] = "Windows.UI.Xaml.Controls.Page";
+            _typeNameTable[56] = "System.Collections.Generic.List`1<String>";
+            _typeNameTable[57] = "LiveCharts.Uwp.Points.PieSlice";
+            _typeNameTable[58] = "Windows.UI.Xaml.Shapes.Path";
 
-            _typeTable = new global::System.Type[57];
+            _typeTable = new global::System.Type[59];
             _typeTable[0] = typeof(global::LiveCharts.Uwp.CartesianChart);
             _typeTable[1] = typeof(global::LiveCharts.Uwp.Charts.Base.Chart);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
@@ -295,19 +297,19 @@ namespace uwp_app.uwp_app_XamlTypeInfo
             _typeTable[19] = typeof(global::LiveCharts.Uwp.Axis);
             _typeTable[20] = typeof(global::Windows.UI.Xaml.FrameworkElement);
             _typeTable[21] = typeof(global::System.String);
-            _typeTable[22] = typeof(global::System.Func<global::System.Double, global::System.String>);
-            _typeTable[23] = typeof(global::System.Collections.Generic.IList<global::System.String>);
-            _typeTable[24] = typeof(global::LiveCharts.AxisCore);
-            _typeTable[25] = typeof(global::System.Double);
+            _typeTable[22] = typeof(global::Windows.UI.Xaml.Media.FontFamily);
+            _typeTable[23] = typeof(global::Windows.UI.Xaml.Media.Brush);
+            _typeTable[24] = typeof(global::System.Func<global::System.Double, global::System.String>);
+            _typeTable[25] = typeof(global::LiveCharts.Definitions.Charts.ISeparatorView);
             _typeTable[26] = typeof(global::LiveCharts.Uwp.SectionsCollection);
             _typeTable[27] = typeof(global::LiveCharts.Helpers.NoisyCollection<global::LiveCharts.Uwp.AxisSection>);
             _typeTable[28] = typeof(global::LiveCharts.Uwp.AxisSection);
-            _typeTable[29] = typeof(global::LiveCharts.AxisSectionCore);
-            _typeTable[30] = typeof(global::Windows.UI.Xaml.Media.Brush);
+            _typeTable[29] = typeof(global::System.Double);
+            _typeTable[30] = typeof(global::LiveCharts.AxisSectionCore);
             _typeTable[31] = typeof(global::Windows.UI.Xaml.Media.DoubleCollection);
-            _typeTable[32] = typeof(global::LiveCharts.Definitions.Charts.ISeparatorView);
-            _typeTable[33] = typeof(global::LiveCharts.AxisPosition);
-            _typeTable[34] = typeof(global::Windows.UI.Xaml.Media.FontFamily);
+            _typeTable[32] = typeof(global::System.Collections.Generic.IList<global::System.String>);
+            _typeTable[33] = typeof(global::LiveCharts.AxisCore);
+            _typeTable[34] = typeof(global::LiveCharts.AxisPosition);
             _typeTable[35] = typeof(global::Windows.UI.Text.FontWeight);
             _typeTable[36] = typeof(global::Windows.UI.Text.FontStyle);
             _typeTable[37] = typeof(global::Windows.UI.Text.FontStretch);
@@ -325,11 +327,13 @@ namespace uwp_app.uwp_app_XamlTypeInfo
             _typeTable[49] = typeof(global::LiveCharts.UpdaterState);
             _typeTable[50] = typeof(global::LiveCharts.Charts.ChartCore);
             _typeTable[51] = typeof(global::System.Collections.Generic.IEnumerable<global::LiveCharts.Definitions.Series.ISeriesView>);
-            _typeTable[52] = typeof(global::uwp_app.MainPage);
-            _typeTable[53] = typeof(global::Windows.UI.Xaml.Controls.Page);
-            _typeTable[54] = typeof(global::System.Collections.Generic.List<global::System.String>);
-            _typeTable[55] = typeof(global::LiveCharts.Uwp.Points.PieSlice);
-            _typeTable[56] = typeof(global::Windows.UI.Xaml.Shapes.Path);
+            _typeTable[52] = typeof(global::LiveCharts.Uwp.Separator);
+            _typeTable[53] = typeof(global::Windows.UI.Xaml.Controls.Control);
+            _typeTable[54] = typeof(global::uwp_app.MainPage);
+            _typeTable[55] = typeof(global::Windows.UI.Xaml.Controls.Page);
+            _typeTable[56] = typeof(global::System.Collections.Generic.List<global::System.String>);
+            _typeTable[57] = typeof(global::LiveCharts.Uwp.Points.PieSlice);
+            _typeTable[58] = typeof(global::Windows.UI.Xaml.Shapes.Path);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -377,9 +381,10 @@ namespace uwp_app.uwp_app_XamlTypeInfo
         private object Activate_40_NoisyCollection() { return new global::LiveCharts.Helpers.NoisyCollection<global::LiveCharts.Definitions.Charts.ICartesianVisualElement>(); }
         private object Activate_42_ColorsCollection() { return new global::LiveCharts.Uwp.ColorsCollection(); }
         private object Activate_43_List() { return new global::System.Collections.Generic.List<global::Windows.UI.Color>(); }
-        private object Activate_52_MainPage() { return new global::uwp_app.MainPage(); }
-        private object Activate_54_List() { return new global::System.Collections.Generic.List<global::System.String>(); }
-        private object Activate_55_PieSlice() { return new global::LiveCharts.Uwp.Points.PieSlice(); }
+        private object Activate_52_Separator() { return new global::LiveCharts.Uwp.Separator(); }
+        private object Activate_54_MainPage() { return new global::uwp_app.MainPage(); }
+        private object Activate_56_List() { return new global::System.Collections.Generic.List<global::System.String>(); }
+        private object Activate_57_PieSlice() { return new global::LiveCharts.Uwp.Points.PieSlice(); }
         private void VectorAdd_3_SeriesCollection(object instance, object item)
         {
             var collection = (global::System.Collections.Generic.ICollection<global::LiveCharts.Definitions.Series.ISeriesView>)instance;
@@ -404,12 +409,6 @@ namespace uwp_app.uwp_app_XamlTypeInfo
             var newItem = (global::LiveCharts.Uwp.Axis)item;
             collection.Add(newItem);
         }
-        private void VectorAdd_23_IList(object instance, object item)
-        {
-            var collection = (global::System.Collections.Generic.ICollection<global::System.String>)instance;
-            var newItem = (global::System.String)item;
-            collection.Add(newItem);
-        }
         private void VectorAdd_26_SectionsCollection(object instance, object item)
         {
             var collection = (global::System.Collections.Generic.ICollection<global::LiveCharts.Uwp.AxisSection>)instance;
@@ -420,6 +419,12 @@ namespace uwp_app.uwp_app_XamlTypeInfo
         {
             var collection = (global::System.Collections.Generic.ICollection<global::LiveCharts.Uwp.AxisSection>)instance;
             var newItem = (global::LiveCharts.Uwp.AxisSection)item;
+            collection.Add(newItem);
+        }
+        private void VectorAdd_32_IList(object instance, object item)
+        {
+            var collection = (global::System.Collections.Generic.ICollection<global::System.String>)instance;
+            var newItem = (global::System.String)item;
             collection.Add(newItem);
         }
         private void VectorAdd_39_VisualElementsCollection(object instance, object item)
@@ -446,7 +451,7 @@ namespace uwp_app.uwp_app_XamlTypeInfo
             var newItem = (global::Windows.UI.Color)item;
             collection.Add(newItem);
         }
-        private void VectorAdd_54_List(object instance, object item)
+        private void VectorAdd_56_List(object instance, object item)
         {
             var collection = (global::System.Collections.Generic.ICollection<global::System.String>)instance;
             var newItem = (global::System.String)item;
@@ -612,13 +617,15 @@ namespace uwp_app.uwp_app_XamlTypeInfo
                 userType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.FrameworkElement"));
                 userType.Activator = Activate_19_Axis;
                 userType.AddMemberName("Title");
+                userType.AddMemberName("FontFamily");
+                userType.AddMemberName("Foreground");
                 userType.AddMemberName("LabelFormatter");
+                userType.AddMemberName("Separator");
+                userType.AddMemberName("Sections");
                 userType.AddMemberName("Labels");
                 userType.AddMemberName("Model");
                 userType.AddMemberName("PreviousMaxValue");
                 userType.AddMemberName("PreviousMinValue");
-                userType.AddMemberName("Sections");
-                userType.AddMemberName("Separator");
                 userType.AddMemberName("ShowLabels");
                 userType.AddMemberName("MaxValue");
                 userType.AddMemberName("MinValue");
@@ -628,12 +635,10 @@ namespace uwp_app.uwp_app_XamlTypeInfo
                 userType.AddMemberName("IsMerged");
                 userType.AddMemberName("BarUnit");
                 userType.AddMemberName("DisableAnimations");
-                userType.AddMemberName("FontFamily");
                 userType.AddMemberName("FontSize");
                 userType.AddMemberName("FontWeight");
                 userType.AddMemberName("FontStyle");
                 userType.AddMemberName("FontStretch");
-                userType.AddMemberName("Foreground");
                 userType.AddMemberName("LabelsRotation");
                 userType.AddMemberName("IsEnabled");
                 userType.AddMemberName("AxisOrientation");
@@ -648,27 +653,24 @@ namespace uwp_app.uwp_app_XamlTypeInfo
                 xamlType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 22:   //  System.Func`2<Double, String>
+            case 22:   //  Windows.UI.Xaml.Media.FontFamily
+                xamlType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlSystemBaseType(typeName, type);
+                break;
+
+            case 23:   //  Windows.UI.Xaml.Media.Brush
+                xamlType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlSystemBaseType(typeName, type);
+                break;
+
+            case 24:   //  System.Func`2<Double, String>
                 userType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("System.MulticastDelegate"));
                 userType.SetIsReturnTypeStub();
                 xamlType = userType;
                 break;
 
-            case 23:   //  System.Collections.Generic.IList`1<String>
+            case 25:   //  LiveCharts.Definitions.Charts.ISeparatorView
                 userType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType(this, typeName, type, null);
-                userType.CollectionAdd = VectorAdd_23_IList;
                 userType.SetIsReturnTypeStub();
                 xamlType = userType;
-                break;
-
-            case 24:   //  LiveCharts.AxisCore
-                userType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
-                userType.SetIsReturnTypeStub();
-                xamlType = userType;
-                break;
-
-            case 25:   //  Double
-                xamlType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
             case 26:   //  LiveCharts.Uwp.SectionsCollection
@@ -688,47 +690,50 @@ namespace uwp_app.uwp_app_XamlTypeInfo
             case 28:   //  LiveCharts.Uwp.AxisSection
                 userType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.FrameworkElement"));
                 userType.Activator = Activate_28_AxisSection;
+                userType.AddMemberName("StrokeThickness");
+                userType.AddMemberName("Stroke");
                 userType.AddMemberName("Model");
                 userType.AddMemberName("Label");
                 userType.AddMemberName("Value");
                 userType.AddMemberName("SectionWidth");
                 userType.AddMemberName("Draggable");
-                userType.AddMemberName("Stroke");
                 userType.AddMemberName("Fill");
-                userType.AddMemberName("StrokeThickness");
                 userType.AddMemberName("StrokeDashArray");
                 xamlType = userType;
                 break;
 
-            case 29:   //  LiveCharts.AxisSectionCore
+            case 29:   //  Double
+                xamlType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlSystemBaseType(typeName, type);
+                break;
+
+            case 30:   //  LiveCharts.AxisSectionCore
                 userType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
                 userType.SetIsReturnTypeStub();
                 xamlType = userType;
-                break;
-
-            case 30:   //  Windows.UI.Xaml.Media.Brush
-                xamlType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
             case 31:   //  Windows.UI.Xaml.Media.DoubleCollection
                 xamlType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 32:   //  LiveCharts.Definitions.Charts.ISeparatorView
+            case 32:   //  System.Collections.Generic.IList`1<String>
                 userType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType(this, typeName, type, null);
+                userType.CollectionAdd = VectorAdd_32_IList;
                 userType.SetIsReturnTypeStub();
                 xamlType = userType;
                 break;
 
-            case 33:   //  LiveCharts.AxisPosition
+            case 33:   //  LiveCharts.AxisCore
+                userType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
+                userType.SetIsReturnTypeStub();
+                xamlType = userType;
+                break;
+
+            case 34:   //  LiveCharts.AxisPosition
                 userType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("System.Enum"));
                 userType.AddEnumValue("LeftBottom", global::LiveCharts.AxisPosition.LeftBottom);
                 userType.AddEnumValue("RightTop", global::LiveCharts.AxisPosition.RightTop);
                 xamlType = userType;
-                break;
-
-            case 34:   //  Windows.UI.Xaml.Media.FontFamily
-                xamlType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
             case 35:   //  Windows.UI.Text.FontWeight
@@ -863,9 +868,25 @@ namespace uwp_app.uwp_app_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 52:   //  uwp_app.MainPage
+            case 52:   //  LiveCharts.Uwp.Separator
+                userType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Control"));
+                userType.Activator = Activate_52_Separator;
+                userType.AddMemberName("StrokeThickness");
+                userType.AddMemberName("Stroke");
+                userType.AddMemberName("Step");
+                userType.AddMemberName("Chart");
+                userType.AddMemberName("StrokeDashArray");
+                userType.AddMemberName("AxisOrientation");
+                xamlType = userType;
+                break;
+
+            case 53:   //  Windows.UI.Xaml.Controls.Control
+                xamlType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlSystemBaseType(typeName, type);
+                break;
+
+            case 54:   //  uwp_app.MainPage
                 userType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_52_MainPage;
+                userType.Activator = Activate_54_MainPage;
                 userType.AddMemberName("SeriesCollection");
                 userType.AddMemberName("Labels");
                 userType.AddMemberName("YFormatter");
@@ -873,20 +894,20 @@ namespace uwp_app.uwp_app_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 53:   //  Windows.UI.Xaml.Controls.Page
+            case 55:   //  Windows.UI.Xaml.Controls.Page
                 xamlType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 54:   //  System.Collections.Generic.List`1<String>
+            case 56:   //  System.Collections.Generic.List`1<String>
                 userType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
-                userType.CollectionAdd = VectorAdd_54_List;
+                userType.CollectionAdd = VectorAdd_56_List;
                 userType.SetIsReturnTypeStub();
                 xamlType = userType;
                 break;
 
-            case 55:   //  LiveCharts.Uwp.Points.PieSlice
+            case 57:   //  LiveCharts.Uwp.Points.PieSlice
                 userType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Shapes.Path"));
-                userType.Activator = Activate_55_PieSlice;
+                userType.Activator = Activate_57_PieSlice;
                 userType.AddMemberName("Radius");
                 userType.AddMemberName("PushOut");
                 userType.AddMemberName("InnerRadius");
@@ -900,7 +921,7 @@ namespace uwp_app.uwp_app_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 56:   //  Windows.UI.Xaml.Shapes.Path
+            case 58:   //  Windows.UI.Xaml.Shapes.Path
                 xamlType = new global::uwp_app.uwp_app_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
             }
@@ -1077,115 +1098,125 @@ namespace uwp_app.uwp_app_XamlTypeInfo
             var that = (global::LiveCharts.Uwp.Axis)instance;
             that.Title = (global::System.String)Value;
         }
-        private object get_13_Axis_LabelFormatter(object instance)
+        private object get_13_Axis_FontFamily(object instance)
+        {
+            var that = (global::LiveCharts.Uwp.Axis)instance;
+            return that.FontFamily;
+        }
+        private void set_13_Axis_FontFamily(object instance, object Value)
+        {
+            var that = (global::LiveCharts.Uwp.Axis)instance;
+            that.FontFamily = (global::Windows.UI.Xaml.Media.FontFamily)Value;
+        }
+        private object get_14_Axis_Foreground(object instance)
+        {
+            var that = (global::LiveCharts.Uwp.Axis)instance;
+            return that.Foreground;
+        }
+        private void set_14_Axis_Foreground(object instance, object Value)
+        {
+            var that = (global::LiveCharts.Uwp.Axis)instance;
+            that.Foreground = (global::Windows.UI.Xaml.Media.Brush)Value;
+        }
+        private object get_15_Axis_LabelFormatter(object instance)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             return that.LabelFormatter;
         }
-        private void set_13_Axis_LabelFormatter(object instance, object Value)
+        private void set_15_Axis_LabelFormatter(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             that.LabelFormatter = (global::System.Func<global::System.Double, global::System.String>)Value;
         }
-        private object get_14_Axis_Labels(object instance)
+        private object get_16_Axis_Separator(object instance)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
-            return that.Labels;
+            return that.Separator;
         }
-        private void set_14_Axis_Labels(object instance, object Value)
+        private void set_16_Axis_Separator(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
-            that.Labels = (global::System.Collections.Generic.IList<global::System.String>)Value;
+            that.Separator = (global::LiveCharts.Definitions.Charts.ISeparatorView)Value;
         }
-        private object get_15_Axis_Model(object instance)
-        {
-            var that = (global::LiveCharts.Uwp.Axis)instance;
-            return that.Model;
-        }
-        private void set_15_Axis_Model(object instance, object Value)
-        {
-            var that = (global::LiveCharts.Uwp.Axis)instance;
-            that.Model = (global::LiveCharts.AxisCore)Value;
-        }
-        private object get_16_Axis_PreviousMaxValue(object instance)
-        {
-            var that = (global::LiveCharts.Uwp.Axis)instance;
-            return that.PreviousMaxValue;
-        }
-        private object get_17_Axis_PreviousMinValue(object instance)
-        {
-            var that = (global::LiveCharts.Uwp.Axis)instance;
-            return that.PreviousMinValue;
-        }
-        private object get_18_Axis_Sections(object instance)
+        private object get_17_Axis_Sections(object instance)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             return that.Sections;
         }
-        private void set_18_Axis_Sections(object instance, object Value)
+        private void set_17_Axis_Sections(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             that.Sections = (global::LiveCharts.Uwp.SectionsCollection)Value;
         }
-        private object get_19_AxisSection_Model(object instance)
+        private object get_18_AxisSection_StrokeThickness(object instance)
         {
             var that = (global::LiveCharts.Uwp.AxisSection)instance;
-            return that.Model;
+            return that.StrokeThickness;
         }
-        private void set_19_AxisSection_Model(object instance, object Value)
+        private void set_18_AxisSection_StrokeThickness(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.AxisSection)instance;
-            that.Model = (global::LiveCharts.AxisSectionCore)Value;
+            that.StrokeThickness = (global::System.Double)Value;
         }
-        private object get_20_AxisSection_Label(object instance)
-        {
-            var that = (global::LiveCharts.Uwp.AxisSection)instance;
-            return that.Label;
-        }
-        private void set_20_AxisSection_Label(object instance, object Value)
-        {
-            var that = (global::LiveCharts.Uwp.AxisSection)instance;
-            that.Label = (global::System.String)Value;
-        }
-        private object get_21_AxisSection_Value(object instance)
-        {
-            var that = (global::LiveCharts.Uwp.AxisSection)instance;
-            return that.Value;
-        }
-        private void set_21_AxisSection_Value(object instance, object Value)
-        {
-            var that = (global::LiveCharts.Uwp.AxisSection)instance;
-            that.Value = (global::System.Double)Value;
-        }
-        private object get_22_AxisSection_SectionWidth(object instance)
-        {
-            var that = (global::LiveCharts.Uwp.AxisSection)instance;
-            return that.SectionWidth;
-        }
-        private void set_22_AxisSection_SectionWidth(object instance, object Value)
-        {
-            var that = (global::LiveCharts.Uwp.AxisSection)instance;
-            that.SectionWidth = (global::System.Double)Value;
-        }
-        private object get_23_AxisSection_Draggable(object instance)
-        {
-            var that = (global::LiveCharts.Uwp.AxisSection)instance;
-            return that.Draggable;
-        }
-        private void set_23_AxisSection_Draggable(object instance, object Value)
-        {
-            var that = (global::LiveCharts.Uwp.AxisSection)instance;
-            that.Draggable = (global::System.Boolean)Value;
-        }
-        private object get_24_AxisSection_Stroke(object instance)
+        private object get_19_AxisSection_Stroke(object instance)
         {
             var that = (global::LiveCharts.Uwp.AxisSection)instance;
             return that.Stroke;
         }
-        private void set_24_AxisSection_Stroke(object instance, object Value)
+        private void set_19_AxisSection_Stroke(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.AxisSection)instance;
             that.Stroke = (global::Windows.UI.Xaml.Media.Brush)Value;
+        }
+        private object get_20_AxisSection_Model(object instance)
+        {
+            var that = (global::LiveCharts.Uwp.AxisSection)instance;
+            return that.Model;
+        }
+        private void set_20_AxisSection_Model(object instance, object Value)
+        {
+            var that = (global::LiveCharts.Uwp.AxisSection)instance;
+            that.Model = (global::LiveCharts.AxisSectionCore)Value;
+        }
+        private object get_21_AxisSection_Label(object instance)
+        {
+            var that = (global::LiveCharts.Uwp.AxisSection)instance;
+            return that.Label;
+        }
+        private void set_21_AxisSection_Label(object instance, object Value)
+        {
+            var that = (global::LiveCharts.Uwp.AxisSection)instance;
+            that.Label = (global::System.String)Value;
+        }
+        private object get_22_AxisSection_Value(object instance)
+        {
+            var that = (global::LiveCharts.Uwp.AxisSection)instance;
+            return that.Value;
+        }
+        private void set_22_AxisSection_Value(object instance, object Value)
+        {
+            var that = (global::LiveCharts.Uwp.AxisSection)instance;
+            that.Value = (global::System.Double)Value;
+        }
+        private object get_23_AxisSection_SectionWidth(object instance)
+        {
+            var that = (global::LiveCharts.Uwp.AxisSection)instance;
+            return that.SectionWidth;
+        }
+        private void set_23_AxisSection_SectionWidth(object instance, object Value)
+        {
+            var that = (global::LiveCharts.Uwp.AxisSection)instance;
+            that.SectionWidth = (global::System.Double)Value;
+        }
+        private object get_24_AxisSection_Draggable(object instance)
+        {
+            var that = (global::LiveCharts.Uwp.AxisSection)instance;
+            return that.Draggable;
+        }
+        private void set_24_AxisSection_Draggable(object instance, object Value)
+        {
+            var that = (global::LiveCharts.Uwp.AxisSection)instance;
+            that.Draggable = (global::System.Boolean)Value;
         }
         private object get_25_AxisSection_Fill(object instance)
         {
@@ -1197,185 +1228,175 @@ namespace uwp_app.uwp_app_XamlTypeInfo
             var that = (global::LiveCharts.Uwp.AxisSection)instance;
             that.Fill = (global::Windows.UI.Xaml.Media.Brush)Value;
         }
-        private object get_26_AxisSection_StrokeThickness(object instance)
-        {
-            var that = (global::LiveCharts.Uwp.AxisSection)instance;
-            return that.StrokeThickness;
-        }
-        private void set_26_AxisSection_StrokeThickness(object instance, object Value)
-        {
-            var that = (global::LiveCharts.Uwp.AxisSection)instance;
-            that.StrokeThickness = (global::System.Double)Value;
-        }
-        private object get_27_AxisSection_StrokeDashArray(object instance)
+        private object get_26_AxisSection_StrokeDashArray(object instance)
         {
             var that = (global::LiveCharts.Uwp.AxisSection)instance;
             return that.StrokeDashArray;
         }
-        private void set_27_AxisSection_StrokeDashArray(object instance, object Value)
+        private void set_26_AxisSection_StrokeDashArray(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.AxisSection)instance;
             that.StrokeDashArray = (global::Windows.UI.Xaml.Media.DoubleCollection)Value;
         }
-        private object get_28_Axis_Separator(object instance)
+        private object get_27_Axis_Labels(object instance)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
-            return that.Separator;
+            return that.Labels;
         }
-        private void set_28_Axis_Separator(object instance, object Value)
+        private void set_27_Axis_Labels(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
-            that.Separator = (global::LiveCharts.Definitions.Charts.ISeparatorView)Value;
+            that.Labels = (global::System.Collections.Generic.IList<global::System.String>)Value;
         }
-        private object get_29_Axis_ShowLabels(object instance)
+        private object get_28_Axis_Model(object instance)
+        {
+            var that = (global::LiveCharts.Uwp.Axis)instance;
+            return that.Model;
+        }
+        private void set_28_Axis_Model(object instance, object Value)
+        {
+            var that = (global::LiveCharts.Uwp.Axis)instance;
+            that.Model = (global::LiveCharts.AxisCore)Value;
+        }
+        private object get_29_Axis_PreviousMaxValue(object instance)
+        {
+            var that = (global::LiveCharts.Uwp.Axis)instance;
+            return that.PreviousMaxValue;
+        }
+        private object get_30_Axis_PreviousMinValue(object instance)
+        {
+            var that = (global::LiveCharts.Uwp.Axis)instance;
+            return that.PreviousMinValue;
+        }
+        private object get_31_Axis_ShowLabels(object instance)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             return that.ShowLabels;
         }
-        private void set_29_Axis_ShowLabels(object instance, object Value)
+        private void set_31_Axis_ShowLabels(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             that.ShowLabels = (global::System.Boolean)Value;
         }
-        private object get_30_Axis_MaxValue(object instance)
+        private object get_32_Axis_MaxValue(object instance)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             return that.MaxValue;
         }
-        private void set_30_Axis_MaxValue(object instance, object Value)
+        private void set_32_Axis_MaxValue(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             that.MaxValue = (global::System.Double)Value;
         }
-        private object get_31_Axis_MinValue(object instance)
+        private object get_33_Axis_MinValue(object instance)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             return that.MinValue;
         }
-        private void set_31_Axis_MinValue(object instance, object Value)
+        private void set_33_Axis_MinValue(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             that.MinValue = (global::System.Double)Value;
         }
-        private object get_32_Axis_MinRange(object instance)
+        private object get_34_Axis_MinRange(object instance)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             return that.MinRange;
         }
-        private void set_32_Axis_MinRange(object instance, object Value)
+        private void set_34_Axis_MinRange(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             that.MinRange = (global::System.Double)Value;
         }
-        private object get_33_Axis_MaxRange(object instance)
+        private object get_35_Axis_MaxRange(object instance)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             return that.MaxRange;
         }
-        private void set_33_Axis_MaxRange(object instance, object Value)
+        private void set_35_Axis_MaxRange(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             that.MaxRange = (global::System.Double)Value;
         }
-        private object get_34_Axis_Position(object instance)
+        private object get_36_Axis_Position(object instance)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             return that.Position;
         }
-        private void set_34_Axis_Position(object instance, object Value)
+        private void set_36_Axis_Position(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             that.Position = (global::LiveCharts.AxisPosition)Value;
         }
-        private object get_35_Axis_IsMerged(object instance)
+        private object get_37_Axis_IsMerged(object instance)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             return that.IsMerged;
         }
-        private void set_35_Axis_IsMerged(object instance, object Value)
+        private void set_37_Axis_IsMerged(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             that.IsMerged = (global::System.Boolean)Value;
         }
-        private object get_36_Axis_BarUnit(object instance)
+        private object get_38_Axis_BarUnit(object instance)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             return that.BarUnit;
         }
-        private void set_36_Axis_BarUnit(object instance, object Value)
+        private void set_38_Axis_BarUnit(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             that.BarUnit = (global::System.Double)Value;
         }
-        private object get_37_Axis_DisableAnimations(object instance)
+        private object get_39_Axis_DisableAnimations(object instance)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             return that.DisableAnimations;
         }
-        private void set_37_Axis_DisableAnimations(object instance, object Value)
+        private void set_39_Axis_DisableAnimations(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             that.DisableAnimations = (global::System.Boolean)Value;
         }
-        private object get_38_Axis_FontFamily(object instance)
-        {
-            var that = (global::LiveCharts.Uwp.Axis)instance;
-            return that.FontFamily;
-        }
-        private void set_38_Axis_FontFamily(object instance, object Value)
-        {
-            var that = (global::LiveCharts.Uwp.Axis)instance;
-            that.FontFamily = (global::Windows.UI.Xaml.Media.FontFamily)Value;
-        }
-        private object get_39_Axis_FontSize(object instance)
+        private object get_40_Axis_FontSize(object instance)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             return that.FontSize;
         }
-        private void set_39_Axis_FontSize(object instance, object Value)
+        private void set_40_Axis_FontSize(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             that.FontSize = (global::System.Double)Value;
         }
-        private object get_40_Axis_FontWeight(object instance)
+        private object get_41_Axis_FontWeight(object instance)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             return that.FontWeight;
         }
-        private void set_40_Axis_FontWeight(object instance, object Value)
+        private void set_41_Axis_FontWeight(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             that.FontWeight = (global::Windows.UI.Text.FontWeight)Value;
         }
-        private object get_41_Axis_FontStyle(object instance)
+        private object get_42_Axis_FontStyle(object instance)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             return that.FontStyle;
         }
-        private void set_41_Axis_FontStyle(object instance, object Value)
+        private void set_42_Axis_FontStyle(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             that.FontStyle = (global::Windows.UI.Text.FontStyle)Value;
         }
-        private object get_42_Axis_FontStretch(object instance)
+        private object get_43_Axis_FontStretch(object instance)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             return that.FontStretch;
         }
-        private void set_42_Axis_FontStretch(object instance, object Value)
+        private void set_43_Axis_FontStretch(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Axis)instance;
             that.FontStretch = (global::Windows.UI.Text.FontStretch)Value;
-        }
-        private object get_43_Axis_Foreground(object instance)
-        {
-            var that = (global::LiveCharts.Uwp.Axis)instance;
-            return that.Foreground;
-        }
-        private void set_43_Axis_Foreground(object instance, object Value)
-        {
-            var that = (global::LiveCharts.Uwp.Axis)instance;
-            that.Foreground = (global::Windows.UI.Xaml.Media.Brush)Value;
         }
         private object get_44_Axis_LabelsRotation(object instance)
         {
@@ -1702,117 +1723,172 @@ namespace uwp_app.uwp_app_XamlTypeInfo
             var that = (global::LiveCharts.Uwp.Charts.Base.Chart)instance;
             that.TooltipTimeout = (global::System.TimeSpan)Value;
         }
-        private object get_80_MainPage_SeriesCollection(object instance)
+        private object get_80_Separator_StrokeThickness(object instance)
+        {
+            var that = (global::LiveCharts.Uwp.Separator)instance;
+            return that.StrokeThickness;
+        }
+        private void set_80_Separator_StrokeThickness(object instance, object Value)
+        {
+            var that = (global::LiveCharts.Uwp.Separator)instance;
+            that.StrokeThickness = (global::System.Double)Value;
+        }
+        private object get_81_Separator_Stroke(object instance)
+        {
+            var that = (global::LiveCharts.Uwp.Separator)instance;
+            return that.Stroke;
+        }
+        private void set_81_Separator_Stroke(object instance, object Value)
+        {
+            var that = (global::LiveCharts.Uwp.Separator)instance;
+            that.Stroke = (global::Windows.UI.Xaml.Media.Brush)Value;
+        }
+        private object get_82_Separator_Step(object instance)
+        {
+            var that = (global::LiveCharts.Uwp.Separator)instance;
+            return that.Step;
+        }
+        private void set_82_Separator_Step(object instance, object Value)
+        {
+            var that = (global::LiveCharts.Uwp.Separator)instance;
+            that.Step = (global::System.Double)Value;
+        }
+        private object get_83_Separator_Chart(object instance)
+        {
+            var that = (global::LiveCharts.Uwp.Separator)instance;
+            return that.Chart;
+        }
+        private void set_83_Separator_Chart(object instance, object Value)
+        {
+            var that = (global::LiveCharts.Uwp.Separator)instance;
+            that.Chart = (global::LiveCharts.Charts.ChartCore)Value;
+        }
+        private object get_84_Separator_StrokeDashArray(object instance)
+        {
+            var that = (global::LiveCharts.Uwp.Separator)instance;
+            return that.StrokeDashArray;
+        }
+        private void set_84_Separator_StrokeDashArray(object instance, object Value)
+        {
+            var that = (global::LiveCharts.Uwp.Separator)instance;
+            that.StrokeDashArray = (global::Windows.UI.Xaml.Media.DoubleCollection)Value;
+        }
+        private object get_85_Separator_AxisOrientation(object instance)
+        {
+            var that = (global::LiveCharts.Uwp.Separator)instance;
+            return that.AxisOrientation;
+        }
+        private object get_86_MainPage_SeriesCollection(object instance)
         {
             var that = (global::uwp_app.MainPage)instance;
             return that.SeriesCollection;
         }
-        private void set_80_MainPage_SeriesCollection(object instance, object Value)
+        private void set_86_MainPage_SeriesCollection(object instance, object Value)
         {
             var that = (global::uwp_app.MainPage)instance;
             that.SeriesCollection = (global::LiveCharts.SeriesCollection)Value;
         }
-        private object get_81_MainPage_Labels(object instance)
+        private object get_87_MainPage_Labels(object instance)
         {
             var that = (global::uwp_app.MainPage)instance;
             return that.Labels;
         }
-        private void set_81_MainPage_Labels(object instance, object Value)
+        private void set_87_MainPage_Labels(object instance, object Value)
         {
             var that = (global::uwp_app.MainPage)instance;
             that.Labels = (global::System.Collections.Generic.List<global::System.String>)Value;
         }
-        private object get_82_MainPage_YFormatter(object instance)
+        private object get_88_MainPage_YFormatter(object instance)
         {
             var that = (global::uwp_app.MainPage)instance;
             return that.YFormatter;
         }
-        private void set_82_MainPage_YFormatter(object instance, object Value)
+        private void set_88_MainPage_YFormatter(object instance, object Value)
         {
             var that = (global::uwp_app.MainPage)instance;
             that.YFormatter = (global::System.Func<global::System.Double, global::System.String>)Value;
         }
-        private object get_83_PieSlice_Radius(object instance)
+        private object get_89_PieSlice_Radius(object instance)
         {
             var that = (global::LiveCharts.Uwp.Points.PieSlice)instance;
             return that.Radius;
         }
-        private void set_83_PieSlice_Radius(object instance, object Value)
+        private void set_89_PieSlice_Radius(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Points.PieSlice)instance;
             that.Radius = (global::System.Double)Value;
         }
-        private object get_84_PieSlice_PushOut(object instance)
+        private object get_90_PieSlice_PushOut(object instance)
         {
             var that = (global::LiveCharts.Uwp.Points.PieSlice)instance;
             return that.PushOut;
         }
-        private void set_84_PieSlice_PushOut(object instance, object Value)
+        private void set_90_PieSlice_PushOut(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Points.PieSlice)instance;
             that.PushOut = (global::System.Double)Value;
         }
-        private object get_85_PieSlice_InnerRadius(object instance)
+        private object get_91_PieSlice_InnerRadius(object instance)
         {
             var that = (global::LiveCharts.Uwp.Points.PieSlice)instance;
             return that.InnerRadius;
         }
-        private void set_85_PieSlice_InnerRadius(object instance, object Value)
+        private void set_91_PieSlice_InnerRadius(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Points.PieSlice)instance;
             that.InnerRadius = (global::System.Double)Value;
         }
-        private object get_86_PieSlice_WedgeAngle(object instance)
+        private object get_92_PieSlice_WedgeAngle(object instance)
         {
             var that = (global::LiveCharts.Uwp.Points.PieSlice)instance;
             return that.WedgeAngle;
         }
-        private void set_86_PieSlice_WedgeAngle(object instance, object Value)
+        private void set_92_PieSlice_WedgeAngle(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Points.PieSlice)instance;
             that.WedgeAngle = (global::System.Double)Value;
         }
-        private object get_87_PieSlice_RotationAngle(object instance)
+        private object get_93_PieSlice_RotationAngle(object instance)
         {
             var that = (global::LiveCharts.Uwp.Points.PieSlice)instance;
             return that.RotationAngle;
         }
-        private void set_87_PieSlice_RotationAngle(object instance, object Value)
+        private void set_93_PieSlice_RotationAngle(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Points.PieSlice)instance;
             that.RotationAngle = (global::System.Double)Value;
         }
-        private object get_88_PieSlice_XOffset(object instance)
+        private object get_94_PieSlice_XOffset(object instance)
         {
             var that = (global::LiveCharts.Uwp.Points.PieSlice)instance;
             return that.XOffset;
         }
-        private void set_88_PieSlice_XOffset(object instance, object Value)
+        private void set_94_PieSlice_XOffset(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Points.PieSlice)instance;
             that.XOffset = (global::System.Double)Value;
         }
-        private object get_89_PieSlice_YOffset(object instance)
+        private object get_95_PieSlice_YOffset(object instance)
         {
             var that = (global::LiveCharts.Uwp.Points.PieSlice)instance;
             return that.YOffset;
         }
-        private void set_89_PieSlice_YOffset(object instance, object Value)
+        private void set_95_PieSlice_YOffset(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Points.PieSlice)instance;
             that.YOffset = (global::System.Double)Value;
         }
-        private object get_90_PieSlice_Percentage(object instance)
+        private object get_96_PieSlice_Percentage(object instance)
         {
             var that = (global::LiveCharts.Uwp.Points.PieSlice)instance;
             return that.Percentage;
         }
-        private object get_91_PieSlice_PieceValue(object instance)
+        private object get_97_PieSlice_PieceValue(object instance)
         {
             var that = (global::LiveCharts.Uwp.Points.PieSlice)instance;
             return that.PieceValue;
         }
-        private void set_91_PieSlice_PieceValue(object instance, object Value)
+        private void set_97_PieSlice_PieceValue(object instance, object Value)
         {
             var that = (global::LiveCharts.Uwp.Points.PieSlice)instance;
             that.PieceValue = (global::System.Double)Value;
@@ -1907,85 +1983,88 @@ namespace uwp_app.uwp_app_XamlTypeInfo
                 xamlMember.Getter = get_12_Axis_Title;
                 xamlMember.Setter = set_12_Axis_Title;
                 break;
+            case "LiveCharts.Uwp.Axis.FontFamily":
+                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
+                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "FontFamily", "Windows.UI.Xaml.Media.FontFamily");
+                xamlMember.SetIsDependencyProperty();
+                xamlMember.Getter = get_13_Axis_FontFamily;
+                xamlMember.Setter = set_13_Axis_FontFamily;
+                break;
+            case "LiveCharts.Uwp.Axis.Foreground":
+                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
+                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Foreground", "Windows.UI.Xaml.Media.Brush");
+                xamlMember.SetIsDependencyProperty();
+                xamlMember.Getter = get_14_Axis_Foreground;
+                xamlMember.Setter = set_14_Axis_Foreground;
+                break;
             case "LiveCharts.Uwp.Axis.LabelFormatter":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "LabelFormatter", "System.Func`2<Double, String>");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_13_Axis_LabelFormatter;
-                xamlMember.Setter = set_13_Axis_LabelFormatter;
+                xamlMember.Getter = get_15_Axis_LabelFormatter;
+                xamlMember.Setter = set_15_Axis_LabelFormatter;
                 break;
-            case "LiveCharts.Uwp.Axis.Labels":
+            case "LiveCharts.Uwp.Axis.Separator":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
-                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Labels", "System.Collections.Generic.IList`1<String>");
+                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Separator", "LiveCharts.Definitions.Charts.ISeparatorView");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_14_Axis_Labels;
-                xamlMember.Setter = set_14_Axis_Labels;
-                break;
-            case "LiveCharts.Uwp.Axis.Model":
-                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
-                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Model", "LiveCharts.AxisCore");
-                xamlMember.Getter = get_15_Axis_Model;
-                xamlMember.Setter = set_15_Axis_Model;
-                break;
-            case "LiveCharts.Uwp.Axis.PreviousMaxValue":
-                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
-                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "PreviousMaxValue", "Double");
-                xamlMember.Getter = get_16_Axis_PreviousMaxValue;
-                xamlMember.SetIsReadOnly();
-                break;
-            case "LiveCharts.Uwp.Axis.PreviousMinValue":
-                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
-                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "PreviousMinValue", "Double");
-                xamlMember.Getter = get_17_Axis_PreviousMinValue;
-                xamlMember.SetIsReadOnly();
+                xamlMember.Getter = get_16_Axis_Separator;
+                xamlMember.Setter = set_16_Axis_Separator;
                 break;
             case "LiveCharts.Uwp.Axis.Sections":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Sections", "LiveCharts.Uwp.SectionsCollection");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_18_Axis_Sections;
-                xamlMember.Setter = set_18_Axis_Sections;
+                xamlMember.Getter = get_17_Axis_Sections;
+                xamlMember.Setter = set_17_Axis_Sections;
                 break;
-            case "LiveCharts.Uwp.AxisSection.Model":
+            case "LiveCharts.Uwp.AxisSection.StrokeThickness":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.AxisSection");
-                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Model", "LiveCharts.AxisSectionCore");
-                xamlMember.Getter = get_19_AxisSection_Model;
-                xamlMember.Setter = set_19_AxisSection_Model;
-                break;
-            case "LiveCharts.Uwp.AxisSection.Label":
-                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.AxisSection");
-                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Label", "String");
+                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "StrokeThickness", "Double");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_20_AxisSection_Label;
-                xamlMember.Setter = set_20_AxisSection_Label;
-                break;
-            case "LiveCharts.Uwp.AxisSection.Value":
-                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.AxisSection");
-                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Value", "Double");
-                xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_21_AxisSection_Value;
-                xamlMember.Setter = set_21_AxisSection_Value;
-                break;
-            case "LiveCharts.Uwp.AxisSection.SectionWidth":
-                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.AxisSection");
-                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "SectionWidth", "Double");
-                xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_22_AxisSection_SectionWidth;
-                xamlMember.Setter = set_22_AxisSection_SectionWidth;
-                break;
-            case "LiveCharts.Uwp.AxisSection.Draggable":
-                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.AxisSection");
-                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Draggable", "Boolean");
-                xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_23_AxisSection_Draggable;
-                xamlMember.Setter = set_23_AxisSection_Draggable;
+                xamlMember.Getter = get_18_AxisSection_StrokeThickness;
+                xamlMember.Setter = set_18_AxisSection_StrokeThickness;
                 break;
             case "LiveCharts.Uwp.AxisSection.Stroke":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.AxisSection");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Stroke", "Windows.UI.Xaml.Media.Brush");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_24_AxisSection_Stroke;
-                xamlMember.Setter = set_24_AxisSection_Stroke;
+                xamlMember.Getter = get_19_AxisSection_Stroke;
+                xamlMember.Setter = set_19_AxisSection_Stroke;
+                break;
+            case "LiveCharts.Uwp.AxisSection.Model":
+                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.AxisSection");
+                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Model", "LiveCharts.AxisSectionCore");
+                xamlMember.Getter = get_20_AxisSection_Model;
+                xamlMember.Setter = set_20_AxisSection_Model;
+                break;
+            case "LiveCharts.Uwp.AxisSection.Label":
+                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.AxisSection");
+                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Label", "String");
+                xamlMember.SetIsDependencyProperty();
+                xamlMember.Getter = get_21_AxisSection_Label;
+                xamlMember.Setter = set_21_AxisSection_Label;
+                break;
+            case "LiveCharts.Uwp.AxisSection.Value":
+                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.AxisSection");
+                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Value", "Double");
+                xamlMember.SetIsDependencyProperty();
+                xamlMember.Getter = get_22_AxisSection_Value;
+                xamlMember.Setter = set_22_AxisSection_Value;
+                break;
+            case "LiveCharts.Uwp.AxisSection.SectionWidth":
+                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.AxisSection");
+                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "SectionWidth", "Double");
+                xamlMember.SetIsDependencyProperty();
+                xamlMember.Getter = get_23_AxisSection_SectionWidth;
+                xamlMember.Setter = set_23_AxisSection_SectionWidth;
+                break;
+            case "LiveCharts.Uwp.AxisSection.Draggable":
+                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.AxisSection");
+                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Draggable", "Boolean");
+                xamlMember.SetIsDependencyProperty();
+                xamlMember.Getter = get_24_AxisSection_Draggable;
+                xamlMember.Setter = set_24_AxisSection_Draggable;
                 break;
             case "LiveCharts.Uwp.AxisSection.Fill":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.AxisSection");
@@ -1994,131 +2073,128 @@ namespace uwp_app.uwp_app_XamlTypeInfo
                 xamlMember.Getter = get_25_AxisSection_Fill;
                 xamlMember.Setter = set_25_AxisSection_Fill;
                 break;
-            case "LiveCharts.Uwp.AxisSection.StrokeThickness":
-                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.AxisSection");
-                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "StrokeThickness", "Double");
-                xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_26_AxisSection_StrokeThickness;
-                xamlMember.Setter = set_26_AxisSection_StrokeThickness;
-                break;
             case "LiveCharts.Uwp.AxisSection.StrokeDashArray":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.AxisSection");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "StrokeDashArray", "Windows.UI.Xaml.Media.DoubleCollection");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_27_AxisSection_StrokeDashArray;
-                xamlMember.Setter = set_27_AxisSection_StrokeDashArray;
+                xamlMember.Getter = get_26_AxisSection_StrokeDashArray;
+                xamlMember.Setter = set_26_AxisSection_StrokeDashArray;
                 break;
-            case "LiveCharts.Uwp.Axis.Separator":
+            case "LiveCharts.Uwp.Axis.Labels":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
-                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Separator", "LiveCharts.Definitions.Charts.ISeparatorView");
+                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Labels", "System.Collections.Generic.IList`1<String>");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_28_Axis_Separator;
-                xamlMember.Setter = set_28_Axis_Separator;
+                xamlMember.Getter = get_27_Axis_Labels;
+                xamlMember.Setter = set_27_Axis_Labels;
+                break;
+            case "LiveCharts.Uwp.Axis.Model":
+                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
+                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Model", "LiveCharts.AxisCore");
+                xamlMember.Getter = get_28_Axis_Model;
+                xamlMember.Setter = set_28_Axis_Model;
+                break;
+            case "LiveCharts.Uwp.Axis.PreviousMaxValue":
+                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
+                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "PreviousMaxValue", "Double");
+                xamlMember.Getter = get_29_Axis_PreviousMaxValue;
+                xamlMember.SetIsReadOnly();
+                break;
+            case "LiveCharts.Uwp.Axis.PreviousMinValue":
+                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
+                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "PreviousMinValue", "Double");
+                xamlMember.Getter = get_30_Axis_PreviousMinValue;
+                xamlMember.SetIsReadOnly();
                 break;
             case "LiveCharts.Uwp.Axis.ShowLabels":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "ShowLabels", "Boolean");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_29_Axis_ShowLabels;
-                xamlMember.Setter = set_29_Axis_ShowLabels;
+                xamlMember.Getter = get_31_Axis_ShowLabels;
+                xamlMember.Setter = set_31_Axis_ShowLabels;
                 break;
             case "LiveCharts.Uwp.Axis.MaxValue":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "MaxValue", "Double");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_30_Axis_MaxValue;
-                xamlMember.Setter = set_30_Axis_MaxValue;
+                xamlMember.Getter = get_32_Axis_MaxValue;
+                xamlMember.Setter = set_32_Axis_MaxValue;
                 break;
             case "LiveCharts.Uwp.Axis.MinValue":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "MinValue", "Double");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_31_Axis_MinValue;
-                xamlMember.Setter = set_31_Axis_MinValue;
+                xamlMember.Getter = get_33_Axis_MinValue;
+                xamlMember.Setter = set_33_Axis_MinValue;
                 break;
             case "LiveCharts.Uwp.Axis.MinRange":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "MinRange", "Double");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_32_Axis_MinRange;
-                xamlMember.Setter = set_32_Axis_MinRange;
+                xamlMember.Getter = get_34_Axis_MinRange;
+                xamlMember.Setter = set_34_Axis_MinRange;
                 break;
             case "LiveCharts.Uwp.Axis.MaxRange":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "MaxRange", "Double");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_33_Axis_MaxRange;
-                xamlMember.Setter = set_33_Axis_MaxRange;
+                xamlMember.Getter = get_35_Axis_MaxRange;
+                xamlMember.Setter = set_35_Axis_MaxRange;
                 break;
             case "LiveCharts.Uwp.Axis.Position":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Position", "LiveCharts.AxisPosition");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_34_Axis_Position;
-                xamlMember.Setter = set_34_Axis_Position;
+                xamlMember.Getter = get_36_Axis_Position;
+                xamlMember.Setter = set_36_Axis_Position;
                 break;
             case "LiveCharts.Uwp.Axis.IsMerged":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "IsMerged", "Boolean");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_35_Axis_IsMerged;
-                xamlMember.Setter = set_35_Axis_IsMerged;
+                xamlMember.Getter = get_37_Axis_IsMerged;
+                xamlMember.Setter = set_37_Axis_IsMerged;
                 break;
             case "LiveCharts.Uwp.Axis.BarUnit":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "BarUnit", "Double");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_36_Axis_BarUnit;
-                xamlMember.Setter = set_36_Axis_BarUnit;
+                xamlMember.Getter = get_38_Axis_BarUnit;
+                xamlMember.Setter = set_38_Axis_BarUnit;
                 break;
             case "LiveCharts.Uwp.Axis.DisableAnimations":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "DisableAnimations", "Boolean");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_37_Axis_DisableAnimations;
-                xamlMember.Setter = set_37_Axis_DisableAnimations;
-                break;
-            case "LiveCharts.Uwp.Axis.FontFamily":
-                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
-                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "FontFamily", "Windows.UI.Xaml.Media.FontFamily");
-                xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_38_Axis_FontFamily;
-                xamlMember.Setter = set_38_Axis_FontFamily;
+                xamlMember.Getter = get_39_Axis_DisableAnimations;
+                xamlMember.Setter = set_39_Axis_DisableAnimations;
                 break;
             case "LiveCharts.Uwp.Axis.FontSize":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "FontSize", "Double");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_39_Axis_FontSize;
-                xamlMember.Setter = set_39_Axis_FontSize;
+                xamlMember.Getter = get_40_Axis_FontSize;
+                xamlMember.Setter = set_40_Axis_FontSize;
                 break;
             case "LiveCharts.Uwp.Axis.FontWeight":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "FontWeight", "Windows.UI.Text.FontWeight");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_40_Axis_FontWeight;
-                xamlMember.Setter = set_40_Axis_FontWeight;
+                xamlMember.Getter = get_41_Axis_FontWeight;
+                xamlMember.Setter = set_41_Axis_FontWeight;
                 break;
             case "LiveCharts.Uwp.Axis.FontStyle":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "FontStyle", "Windows.UI.Text.FontStyle");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_41_Axis_FontStyle;
-                xamlMember.Setter = set_41_Axis_FontStyle;
+                xamlMember.Getter = get_42_Axis_FontStyle;
+                xamlMember.Setter = set_42_Axis_FontStyle;
                 break;
             case "LiveCharts.Uwp.Axis.FontStretch":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "FontStretch", "Windows.UI.Text.FontStretch");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_42_Axis_FontStretch;
-                xamlMember.Setter = set_42_Axis_FontStretch;
-                break;
-            case "LiveCharts.Uwp.Axis.Foreground":
-                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
-                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Foreground", "Windows.UI.Xaml.Media.Brush");
-                xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_43_Axis_Foreground;
-                xamlMember.Setter = set_43_Axis_Foreground;
+                xamlMember.Getter = get_43_Axis_FontStretch;
+                xamlMember.Setter = set_43_Axis_FontStretch;
                 break;
             case "LiveCharts.Uwp.Axis.LabelsRotation":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Axis");
@@ -2357,86 +2433,127 @@ namespace uwp_app.uwp_app_XamlTypeInfo
                 xamlMember.Getter = get_79_Chart_TooltipTimeout;
                 xamlMember.Setter = set_79_Chart_TooltipTimeout;
                 break;
+            case "LiveCharts.Uwp.Separator.StrokeThickness":
+                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Separator");
+                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "StrokeThickness", "Double");
+                xamlMember.SetIsDependencyProperty();
+                xamlMember.Getter = get_80_Separator_StrokeThickness;
+                xamlMember.Setter = set_80_Separator_StrokeThickness;
+                break;
+            case "LiveCharts.Uwp.Separator.Stroke":
+                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Separator");
+                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Stroke", "Windows.UI.Xaml.Media.Brush");
+                xamlMember.SetIsDependencyProperty();
+                xamlMember.Getter = get_81_Separator_Stroke;
+                xamlMember.Setter = set_81_Separator_Stroke;
+                break;
+            case "LiveCharts.Uwp.Separator.Step":
+                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Separator");
+                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Step", "Double");
+                xamlMember.SetIsDependencyProperty();
+                xamlMember.Getter = get_82_Separator_Step;
+                xamlMember.Setter = set_82_Separator_Step;
+                break;
+            case "LiveCharts.Uwp.Separator.Chart":
+                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Separator");
+                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Chart", "LiveCharts.Charts.ChartCore");
+                xamlMember.Getter = get_83_Separator_Chart;
+                xamlMember.Setter = set_83_Separator_Chart;
+                break;
+            case "LiveCharts.Uwp.Separator.StrokeDashArray":
+                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Separator");
+                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "StrokeDashArray", "Windows.UI.Xaml.Media.DoubleCollection");
+                xamlMember.SetIsDependencyProperty();
+                xamlMember.Getter = get_84_Separator_StrokeDashArray;
+                xamlMember.Setter = set_84_Separator_StrokeDashArray;
+                break;
+            case "LiveCharts.Uwp.Separator.AxisOrientation":
+                userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Separator");
+                xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "AxisOrientation", "LiveCharts.AxisOrientation");
+                xamlMember.SetIsDependencyProperty();
+                xamlMember.Getter = get_85_Separator_AxisOrientation;
+                xamlMember.SetIsReadOnly();
+                break;
             case "uwp_app.MainPage.SeriesCollection":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("uwp_app.MainPage");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "SeriesCollection", "LiveCharts.SeriesCollection");
-                xamlMember.Getter = get_80_MainPage_SeriesCollection;
-                xamlMember.Setter = set_80_MainPage_SeriesCollection;
+                xamlMember.Getter = get_86_MainPage_SeriesCollection;
+                xamlMember.Setter = set_86_MainPage_SeriesCollection;
                 break;
             case "uwp_app.MainPage.Labels":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("uwp_app.MainPage");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Labels", "System.Collections.Generic.List`1<String>");
-                xamlMember.Getter = get_81_MainPage_Labels;
-                xamlMember.Setter = set_81_MainPage_Labels;
+                xamlMember.Getter = get_87_MainPage_Labels;
+                xamlMember.Setter = set_87_MainPage_Labels;
                 break;
             case "uwp_app.MainPage.YFormatter":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("uwp_app.MainPage");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "YFormatter", "System.Func`2<Double, String>");
-                xamlMember.Getter = get_82_MainPage_YFormatter;
-                xamlMember.Setter = set_82_MainPage_YFormatter;
+                xamlMember.Getter = get_88_MainPage_YFormatter;
+                xamlMember.Setter = set_88_MainPage_YFormatter;
                 break;
             case "LiveCharts.Uwp.Points.PieSlice.Radius":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Points.PieSlice");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Radius", "Double");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_83_PieSlice_Radius;
-                xamlMember.Setter = set_83_PieSlice_Radius;
+                xamlMember.Getter = get_89_PieSlice_Radius;
+                xamlMember.Setter = set_89_PieSlice_Radius;
                 break;
             case "LiveCharts.Uwp.Points.PieSlice.PushOut":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Points.PieSlice");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "PushOut", "Double");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_84_PieSlice_PushOut;
-                xamlMember.Setter = set_84_PieSlice_PushOut;
+                xamlMember.Getter = get_90_PieSlice_PushOut;
+                xamlMember.Setter = set_90_PieSlice_PushOut;
                 break;
             case "LiveCharts.Uwp.Points.PieSlice.InnerRadius":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Points.PieSlice");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "InnerRadius", "Double");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_85_PieSlice_InnerRadius;
-                xamlMember.Setter = set_85_PieSlice_InnerRadius;
+                xamlMember.Getter = get_91_PieSlice_InnerRadius;
+                xamlMember.Setter = set_91_PieSlice_InnerRadius;
                 break;
             case "LiveCharts.Uwp.Points.PieSlice.WedgeAngle":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Points.PieSlice");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "WedgeAngle", "Double");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_86_PieSlice_WedgeAngle;
-                xamlMember.Setter = set_86_PieSlice_WedgeAngle;
+                xamlMember.Getter = get_92_PieSlice_WedgeAngle;
+                xamlMember.Setter = set_92_PieSlice_WedgeAngle;
                 break;
             case "LiveCharts.Uwp.Points.PieSlice.RotationAngle":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Points.PieSlice");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "RotationAngle", "Double");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_87_PieSlice_RotationAngle;
-                xamlMember.Setter = set_87_PieSlice_RotationAngle;
+                xamlMember.Getter = get_93_PieSlice_RotationAngle;
+                xamlMember.Setter = set_93_PieSlice_RotationAngle;
                 break;
             case "LiveCharts.Uwp.Points.PieSlice.XOffset":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Points.PieSlice");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "XOffset", "Double");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_88_PieSlice_XOffset;
-                xamlMember.Setter = set_88_PieSlice_XOffset;
+                xamlMember.Getter = get_94_PieSlice_XOffset;
+                xamlMember.Setter = set_94_PieSlice_XOffset;
                 break;
             case "LiveCharts.Uwp.Points.PieSlice.YOffset":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Points.PieSlice");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "YOffset", "Double");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_89_PieSlice_YOffset;
-                xamlMember.Setter = set_89_PieSlice_YOffset;
+                xamlMember.Getter = get_95_PieSlice_YOffset;
+                xamlMember.Setter = set_95_PieSlice_YOffset;
                 break;
             case "LiveCharts.Uwp.Points.PieSlice.Percentage":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Points.PieSlice");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "Percentage", "Double");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_90_PieSlice_Percentage;
+                xamlMember.Getter = get_96_PieSlice_Percentage;
                 xamlMember.SetIsReadOnly();
                 break;
             case "LiveCharts.Uwp.Points.PieSlice.PieceValue":
                 userType = (global::uwp_app.uwp_app_XamlTypeInfo.XamlUserType)GetXamlTypeByName("LiveCharts.Uwp.Points.PieSlice");
                 xamlMember = new global::uwp_app.uwp_app_XamlTypeInfo.XamlMember(this, "PieceValue", "Double");
                 xamlMember.SetIsDependencyProperty();
-                xamlMember.Getter = get_91_PieSlice_PieceValue;
-                xamlMember.Setter = set_91_PieSlice_PieceValue;
+                xamlMember.Getter = get_97_PieSlice_PieceValue;
+                xamlMember.Setter = set_97_PieSlice_PieceValue;
                 break;
             }
             return xamlMember;

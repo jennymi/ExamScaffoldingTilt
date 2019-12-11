@@ -7,30 +7,57 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:lvc="using:LiveCharts.Uwp"
     mc:Ignorable="d"
-    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+     
+    Background="#6C6C6C">
 
-    <Grid>
-        <TextBlock x:ConnectionId='2' Name ="deviceId" HorizontalAlignment="Left" Margin="740,66,0,0" Text="deviceName" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30"/>
 
-        <TextBlock  HorizontalAlignment="Left" Height="70" Margin="692,123,0,0" Text="Roll: " TextWrapping="Wrap" VerticalAlignment="Top" Width="300" FontSize="40"/>
-        <TextBlock x:ConnectionId='3'  Name ="messageRoll" HorizontalAlignment="Left" Margin="922,130,0,0" Text="rollaxis " TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30"/>
+    <Grid HorizontalAlignment="Stretch" Margin="22,-22,-22,22" VerticalAlignment="Stretch" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width=".7*"></ColumnDefinition>
+            <ColumnDefinition Width=".3*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <Border Grid.ColumnSpan="2"></Border>
+        <StackPanel Grid.Row="0" Grid.Column="0" Orientation="Horizontal" Margin="25, 10">
+            <Path Width="25" Height="25" Stretch="Fill" Fill="#4C4949" Data="F1 M 38,3.16666C 57.2379,3.16666 72.8333,18.7621 72.8333,38C 72.8333,57.2379 57.2379,72.8333 38,72.8333C 18.7621,72.8333 3.16667,57.2379 3.16667,38C 3.16667,18.7621 18.7621,3.16666 38,3.16666 Z M 52.252,18.9974L 36.4164,18.9974L 23.75,39.5833L 34.8333,39.5833L 25.3316,60.1667L 50.6667,34.8333L 38,34.8333L 52.252,18.9974 Z "/>
+            <StackPanel Margin="-10, 30">
+                <TextBlock  FontWeight="Bold" FontFamily="Verdana" FontSize="40" Foreground="White">Tilt Sensor</TextBlock>
+                <TextBlock x:ConnectionId='6'  Margin="0,10,0,0" FontFamily="Verdana" Name ="messageTime" Text="timestamp" FontSize="25" Foreground="#7CFFFFFF"/>
+            </StackPanel>
+        </StackPanel>
 
-        <TextBlock HorizontalAlignment="Left" Margin="690,185,0,0" Text="Pitch: " TextWrapping="Wrap" VerticalAlignment="Top" FontSize="40"/>
-        <TextBlock x:ConnectionId='4' Name ="messagePitch" HorizontalAlignment="Left" Margin="922,196,0,0" Text="pitchaxis" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30"/>
-
-        <TextBlock HorizontalAlignment="Left" Margin="691,233,0,0" Text="Datetime: " TextWrapping="Wrap" VerticalAlignment="Top" FontSize="40"/>
-        <TextBlock x:ConnectionId='5' Name ="messageTime" HorizontalAlignment="Left" Margin="920,244,0,0" Text="timenstamp" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30"/>
-
-        <lvc:CartesianChart Series="{Binding SeriesCollection}" LegendLocation="Right" >
+        <lvc:CartesianChart x:ConnectionId='2'  Name="Chart" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Foreground="#F9F9F9" Margin="0,10,50,0" Series="{Binding SeriesCollection}" LegendLocation="Right" >
             <lvc:CartesianChart.AxisY>
-                <lvc:Axis Title="Tilt" LabelFormatter="{Binding YFormatter}"></lvc:Axis>
+                <lvc:Axis Title="Tilt" FontFamily="Verdana" Foreground="#F9F9F9" LabelFormatter="{Binding YFormatter}">
+                   
+                    <lvc:Axis.Separator>
+                        <lvc:Separator StrokeThickness="1" Stroke="#7C7C7C" Step="50" />
+                    </lvc:Axis.Separator>
+                    <lvc:Axis.Sections>
+                        <lvc:AxisSection StrokeThickness="2" Stroke="#F9F9F9" >
+                        </lvc:AxisSection>
+                    </lvc:Axis.Sections>
+                </lvc:Axis>
             </lvc:CartesianChart.AxisY>
             <lvc:CartesianChart.AxisX>
-                <lvc:Axis Title="DateTime" Labels="{Binding Labels}"></lvc:Axis>
+                <lvc:Axis FontFamily="Verdana" Foreground="#F9F9F9" Labels="{Binding Labels}">
+                </lvc:Axis>
             </lvc:CartesianChart.AxisX>
         </lvc:CartesianChart>
 
-
+        <StackPanel Grid.Row="0" Grid.RowSpan="2" Grid.Column="1" Background="#4CFFFFFF" Height="300" VerticalAlignment="Top">
+            <TextBlock FontFamily="Verdana"  Foreground="#E8E8E8" FontSize="16" HorizontalAlignment="Center" Margin="0,50,0,0">DeviceName</TextBlock>
+            <TextBlock x:ConnectionId='3' FontFamily="Verdana" FontWeight="Bold" Name ="deviceId" Text="DeviceName here" Foreground="White" FontSize="30" HorizontalAlignment="Center"/>
+            <TextBlock FontFamily="Verdana" Foreground="#E8E8E8" FontSize="16" HorizontalAlignment="Center" Margin="0,20,0,0">Roll</TextBlock>
+            <TextBlock x:ConnectionId='4' FontFamily="Verdana" FontWeight="Bold" Name ="messageRoll" Text="rollaxis" Foreground="White" FontSize="30" HorizontalAlignment="Center"/>
+            <TextBlock FontFamily="Verdana" Foreground="#E8E8E8" FontSize="16" HorizontalAlignment="Center" Margin="0,20,0,0">Pitch</TextBlock>
+            <TextBlock x:ConnectionId='5' FontFamily="Verdana" FontWeight="Bold" Name ="messagePitch" Text="pitchaxis"  Foreground="White" FontSize="30" HorizontalAlignment="Center"/>
+        </StackPanel>
+        
     </Grid>
 </Page>
 

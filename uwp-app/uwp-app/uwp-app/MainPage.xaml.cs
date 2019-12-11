@@ -20,6 +20,7 @@ using Newtonsoft.Json;
 
 using LiveCharts;
 using LiveCharts.Uwp;
+using Windows.UI;
 
 namespace uwp_app
 {
@@ -54,23 +55,24 @@ namespace uwp_app
             {
                 new LineSeries
                 {
-                    Title = "Series 1",
+                    Title = "Roll",
                     Values = new ChartValues<double>(),
-                    PointGeometry = null
-
+                    PointGeometry = null,
+                    StrokeThickness = 5,
+                    Fill = new SolidColorBrush(Colors.Transparent)
                 },
                 new LineSeries
                 {
-                    Title = "Series 2",
+                    Title = "Pitch",
                     Values = new ChartValues<double>(),
-                    PointGeometry = null
+                    PointGeometry = null,
+                    StrokeThickness = 5,
+                    Fill = new SolidColorBrush(Colors.Transparent)
                 }
             };
 
             Labels = new List<string> { "10 dec" };
-
             YFormatter = value => value.ToString();
-
             DataContext = this;
         }
 
@@ -114,13 +116,8 @@ namespace uwp_app
                     messageRoll.Text = sensor.rollF.ToString();
                     messagePitch.Text = sensor.pitchF.ToString();
                     messageTime.Text = sensor.dateTime;
-                    //messageZ.Text = sensor.Z_out.ToString();
                     deviceId.Text = sensor.deviceId.ToString();
-
-
                     await AddValuesAsync(sensor.rollF, sensor.pitchF, sensor.dateTime);
-                    
-
                 }
                 await Task.Delay(TimeSpan.FromSeconds(1));
             }
@@ -130,12 +127,9 @@ namespace uwp_app
     public class Sensor
     {
         public string deviceId { get; set; }
-        //public int messageId { get; set; }
         public float rollF { get; set; }
         public float pitchF { get; set; }
         public string dateTime { get; set; }
 
     }
-
-
 }
